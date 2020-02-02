@@ -1,0 +1,4016 @@
+   1 ﻿Project Gutenberg's Alice's Adventures in Wonderland, by Lewis Carroll
+   2 
+   3 This eBook is for the use of anyone anywhere at no cost and with
+   4 almost no restrictions whatsoever.  You may copy it, give it away or
+   5 re-use it under the terms of the Project Gutenberg License included
+   6 with this eBook or online at www.gutenberg.net
+   7 
+   8 
+   9 Title: Alice's Adventures in Wonderland
+  10        Illustrated by Arthur Rackham. With a Proem by Austin Dobson
+  11 ALICE'S ADVENTURES IN WONDERLAND
+  12 
+  13 [Illustration: "Alice"]
+  14 
+  15 [Illustration:
+  16 
+  17           ALICE'S·ADVENTURES
+  18           IN·WONDERLAND
+  19           BY·LEWIS·CARROLL
+  20           ILLUSTRATED·BY
+  21           ARTHUR·RACKHAM
+  22 
+  23           WITH A PROEM BY AUSTIN DOBSON
+  24 
+  25           LONDON·WILLIAM·HEINEMANN
+  26           NEW·YORK·DOUBLEDAY·PAGE·&·Co]
+  27 
+  28           PRINTED IN ENGLAND
+  29 
+  30           _'Tis two score years since CARROLL'S art,
+  31              With topsy-turvy magic,
+  32            Sent ALICE wondering through a part
+  33              Half-comic and half-tragic._
+  34 
+  35           _Enchanting ALICE! Black-and-white
+  36              Has made your deeds perennial;
+  37            And naught save "Chaos and old Night"
+  38              Can part you now from TENNIEL;_
+  39 
+  40           _But still you are a Type, and based
+  41              In Truth, like LEAR and HAMLET;
+  42            And Types may be re-draped to taste
+  43              In cloth-of-gold or camlet._
+  44 
+  45           _Here comes afresh Costumier, then;
+  46              That Taste may gain a wrinkle
+  47            From him who drew with such deft pen
+  48              The rags of RIP VAN WINKLE!_
+  49 
+  50                                    _AUSTIN DOBSON._
+  51 
+  52 
+  53 
+  54           All in the golden afternoon
+  55             Full leisurely we glide;
+  56           For both our oars, with little skill,
+  57             By little arms are plied,
+  58           While little hands make vain pretence
+  59             Our wanderings to guide.
+  60 
+  61           Ah, cruel Three! In such an hour,
+  62             Beneath such dreamy weather,
+  63           To beg a tale of breath too weak
+  64             To stir the tiniest feather!
+  65           Yet what can one poor voice avail
+  66             Against three tongues together?
+  67 
+  68           Imperious Prima flashes forth
+  69             Her edict "to begin it"--
+  70           In gentler tone Secunda hopes
+  71             "There will be nonsense in it!"--
+  72           While Tertia interrupts the tale
+  73             Not _more_ than once a minute.
+  74 
+  75           Anon, to sudden silence won,
+  76             In fancy they pursue
+  77           The dream-child moving through a land
+  78             Of wonders wild and new,
+  79           In friendly chat with bird or beast--
+  80             And half believe it true.
+  81 
+  82           And ever, as the story drained
+  83             The wells of fancy dry.
+  84           And faintly strove that weary one
+  85             To put the subject by,
+  86           "The rest next time--" "It _is_ next time!"
+  87             The happy voices cry.
+  88 
+  89           Thus grew the tale of Wonderland:
+  90             Thus slowly, one by one,
+  91           Its quaint events were hammered out--
+  92             And now the tale is done,
+  93           And home we steer, a merry crew,
+  94             Beneath the setting sun.
+  95 
+  96           Alice! a childish story take,
+  97             And with a gentle hand
+  98           Lay it where Childhood's dreams are twined
+  99             In Memory's mystic band,
+ 100           Like pilgrim's wither'd wreath of flowers
+ 101             Pluck'd in a far-off land.
+ 102 
+ 103 
+ 104 
+ 105 
+ 106 CONTENTS
+ 107 
+ 108 
+ 109                                                       PAGE
+ 110 
+ 111              I. DOWN THE RABBIT-HOLE                     1
+ 112 
+ 113             II. THE POOL OF TEARS                       13
+ 114 
+ 115            III. A CAUCUS-RACE AND A LONG TALE           24
+ 116 
+ 117             IV. THE RABBIT SENDS IN A LITTLE BILL       35
+ 118 
+ 119              V. ADVICE FROM A CATERPILLAR               49
+ 120 
+ 121             VI. PIG AND PEPPER                          64
+ 122 
+ 123            VII. A MAD TEA-PARTY                         82
+ 124 
+ 125           VIII. THE QUEEN'S CROQUET-GROUND              96
+ 126 
+ 127             IX. THE MOCK TURTLE'S STORY                111
+ 128 
+ 129              X. THE LOBSTER QUADRILLE                  126
+ 130 
+ 131             XI. WHO STOLE THE TARTS?                   139
+ 132 
+ 133            XII. ALICE'S EVIDENCE                       150
+ 134 
+ 135 
+ 136 
+ 137 
+ 138 LIST OF THE PLATES
+ 139 
+ 140 
+ 141                                             _To face page_
+ 142 
+ 143           Alice                             _Frontispiece_
+ 144 
+ 145           The Pool of Tears                             22
+ 146 
+ 147           They all crowded round it panting and
+ 148              asking, "But who has won?"                 28
+ 149 
+ 150           "Why, Mary Ann, what are you doing out
+ 151              here?"                                     36
+ 152 
+ 153           Advice from a Caterpillar                     50
+ 154 
+ 155           An unusually large saucepan flew close
+ 156              by it, and very nearly carried it off      70
+ 157 
+ 158           It grunted again so violently that she
+ 159              looked down into its face in some alarm    74
+ 160 
+ 161           A Mad Tea-Party                               84
+ 162 
+ 163           The Queen turned angrily away from him
+ 164              and said to the Knave, "Turn them over"   100
+ 165 
+ 166           The Queen never left off quarrelling
+ 167              with the other players, and shouting
+ 168              "Off with his head!" or, "Off with her
+ 169              head!"                                    116
+ 170 
+ 171           The Mock Turtle drew a long breath and
+ 172              said, "That's very curious"               132
+ 173 
+ 174           Who stole the Tarts?                         140
+ 175 
+ 176           At this the whole pack rose up into the
+ 177              air, and came flying down upon her        158
+ 178 
+ 179 
+ 180 
+ 181 
+ 182 CHAPTER I
+ 183 
+ 184 
+ 185 [Sidenote: _Down the Rabbit-Hole_]
+ 186 
+ 187 ALICE was beginning to get very tired of sitting by her
+ 188 sister on the bank, and of having nothing to do: once or twice she had
+ 189 peeped into the book her sister was reading, but it had no pictures or
+ 190 conversations in it, "and what is the use of a book," thought Alice,
+ 191 "without pictures or conversations?"
+ 192 
+ 193 So she was considering in her own mind (as well as she could, for the
+ 194 hot day made her feel very sleepy and stupid) whether the pleasure of
+ 195 making a daisy-chain would be worth the trouble of getting up and
+ 196 picking the daisies, when suddenly a White Rabbit with pink eyes ran
+ 197 close by her.
+ 198 
+ 199 There was nothing so _very_ remarkable in that; nor did Alice think it
+ 200 so _very_ much out of the way to hear the Rabbit say to itself, "Oh
+ 201 dear! Oh dear! I shall be too late!" (when she thought it over
+ 202 afterwards, it occurred to her that she ought to have wondered at this,
+ 203 but at the time it all seemed quite natural); but when the Rabbit
+ 204 actually _took a watch out of its waistcoat-pocket_, and looked at it,
+ 205 and then hurried on, Alice started to her feet, for it flashed across
+ 206 her mind that she had never before seen a rabbit with either a
+ 207 waistcoat-pocket, or a watch to take out of it, and burning with
+ 208 curiosity, she ran across the field after it, and was just in time to
+ 209 see it pop down a large rabbit-hole under the hedge.
+ 210 
+ 211 In another moment down went Alice after it, never once considering how
+ 212 in the world she was to get out again.
+ 213 
+ 214 The rabbit-hole went straight on like a tunnel for some way, and then
+ 215 dipped suddenly down, so suddenly that Alice had not a moment to think
+ 216 about stopping herself before she found herself falling down what seemed
+ 217 to be a very deep well.
+ 218 
+ 219 [Illustration]
+ 220 
+ 221 Either the well was very deep, or she fell very slowly, for she had
+ 222 plenty of time as she went down to look about her, and to wonder what
+ 223 was going to happen next. First, she tried to look down and make out
+ 224 what she was coming to, but it was too dark to see anything; then she
+ 225 looked at the sides of the well and noticed that they were filled with
+ 226 cupboards and book-shelves: here and there she saw maps and pictures
+ 227 hung upon pegs. She took down a jar from one of the shelves as she
+ 228 passed; it was labelled "ORANGE MARMALADE," but to her disappointment it
+ 229 was empty; she did not like to drop the jar for fear of killing
+ 230 somebody underneath, so managed to put it into one of the cupboards as
+ 231 she fell past it.
+ 232 
+ 233 "Well!" thought Alice to herself. "After such a fall as this, I shall
+ 234 think nothing of tumbling down stairs! How brave they'll all think me at
+ 235 home! Why, I wouldn't say anything about it, even if I fell off the top
+ 236 of the house!" (Which was very likely true.)
+ 237 
+ 238 Down, down, down. Would the fall _never_ come to an end? "I wonder how
+ 239 many miles I've fallen by this time?" she said aloud. "I must be getting
+ 240 somewhere near the centre of the earth. Let me see: that would be four
+ 241 thousand miles down. I think--" (for, you see, Alice had learnt several
+ 242 things of this sort in her lessons in the schoolroom, and though this
+ 243 was not a _very_ good opportunity for showing off her knowledge, as
+ 244 there was no one to listen to her, still it was good practice to say it
+ 245 over) "--yes, that's about the right distance--but then I wonder what
+ 246 Latitude or Longitude I've got to?" (Alice had no idea what Latitude
+ 247 was, or Longitude either, but thought they were nice grand words to
+ 248 say.)
+ 249 
+ 250 Presently she began again. "I wonder if I shall fall right _through_ the
+ 251 earth! How funny it'll seem to come out among the people that walk with
+ 252 their heads downwards! The Antipathies, I think--" (she was rather glad
+ 253 there _was_ no one listening, this time, as it didn't sound at all the
+ 254 right word) "--but I shall have to ask them what the name of the country
+ 255 is, you know. Please, Ma'am, is this New Zealand or Australia?" (and she
+ 256 tried to curtsey as she spoke--fancy _curtseying_ as you're falling
+ 257 through the air! Do you think you could manage it?) "And what an
+ 258 ignorant little girl she'll think me! No, it'll never do to ask: perhaps
+ 259 I shall see it written up somewhere."
+ 260 
+ 261 Down, down, down. There was nothing else to do, so Alice soon began
+ 262 talking again. "Dinah'll miss me very much to-night, I should think!"
+ 263 (Dinah was the cat.) "I hope they'll remember her saucer of milk at
+ 264 tea-time. Dinah, my dear, I wish you were down here with me! There are
+ 265 no mice in the air, I'm afraid, but you might catch a bat, and that's
+ 266 very like a mouse, you know. But do cats eat bats, I wonder?" And here
+ 267 Alice began to get rather sleepy, and went on saying to herself, in a
+ 268 dreamy sort of way, "Do cats eat bats? Do cats eat bats?" and sometimes,
+ 269 "Do bats eat cats?" for, you see, as she couldn't answer either
+ 270 question, it didn't much matter which way she put it. She felt that she
+ 271 was dozing off, and had just begun to dream that she was walking hand in
+ 272 hand with Dinah, and saying to her very earnestly, "Now, Dinah, tell me
+ 273 the truth: did you ever eat a bat?" when suddenly, thump! thump! down
+ 274 she came upon a heap of sticks and dry leaves, and the fall was over.
+ 275 
+ 276 Alice was not a bit hurt, and she jumped up on to her feet in a moment:
+ 277 she looked up, but it was all dark overhead; before her was another long
+ 278 passage, and the White Rabbit was still in sight, hurrying down it.
+ 279 There was not a moment to be lost: away went Alice like the wind, and
+ 280 was just in time to hear it say, as it turned a corner, "Oh my ears and
+ 281 whiskers, how late it's getting!" She was close behind it when she
+ 282 turned the corner, but the Rabbit was no longer to be seen: she found
+ 283 herself in a long, low hall, which was lit up by a row of lamps hanging
+ 284 from the roof.
+ 285 
+ 286 There were doors all round the hall, but they were all locked; and when
+ 287 Alice had been all the way down one side and up the other, trying every
+ 288 door, she walked sadly down the middle, wondering how she was ever to
+ 289 get out again.
+ 290 
+ 291 Suddenly she came upon a little three-legged table, all made of solid
+ 292 glass; there was nothing on it but a tiny golden key, and Alice's first
+ 293 idea was that this might belong to one of the doors of the hall; but,
+ 294 alas! either the locks were too large, or the key was too small, but at
+ 295 any rate it would not open any of them. However, on the second time
+ 296 round, she came upon a low curtain she had not noticed before, and
+ 297 behind it was a little door about fifteen inches high: she tried the
+ 298 little golden key in the lock, and to her great delight it fitted!
+ 299 
+ 300 Alice opened the door and found that it led into a small passage, not
+ 301 much larger than a rat-hole: she knelt down and looked along the passage
+ 302 into the loveliest garden you ever saw. How she longed to get out of
+ 303 that dark hall, and wander about among those beds of bright flowers and
+ 304 those cool fountains, but she could not even get her head through the
+ 305 doorway; "and even if my head would go through," thought poor Alice, "it
+ 306 would be of very little use without my shoulders. Oh, how I wish I could
+ 307 shut up like a telescope! I think I could, if I only knew how to begin."
+ 308 For, you see, so many out-of-the-way things had happened lately, that
+ 309 Alice had begun to think that very few things indeed were really
+ 310 impossible.
+ 311 
+ 312 There seemed to be no use in waiting by the little door, so she went
+ 313 back to the table, half hoping she might find another key on it, or at
+ 314 any rate a book of rules for shutting people up like telescopes: this
+ 315 time she found a little bottle on it ("which certainly was not here
+ 316 before," said Alice,) and tied round the neck of the bottle was a paper
+ 317 label, with the words "DRINK ME" beautifully printed on it in large
+ 318 letters.
+ 319 
+ 320 It was all very well to say "Drink me," but the wise little Alice was
+ 321 not going to do _that_ in a hurry. "No, I'll look first," she said, "and
+ 322 see whether it's marked '_poison_' or not;" for she had read several
+ 323 nice little stories about children who had got burnt, and eaten up by
+ 324 wild beasts, and other unpleasant things, all because they _would_ not
+ 325 remember the simple rules their friends had taught them: such as, that a
+ 326 red-hot poker will burn you if you hold it too long; and that, if you
+ 327 cut your finger _very_ deeply with a knife, it usually bleeds; and she
+ 328 had never forgotten that, if you drink much from a bottle marked
+ 329 "poison," it is almost certain to disagree with you, sooner or later.
+ 330 
+ 331 However, this bottle was _not_ marked "poison," so Alice ventured to
+ 332 taste it, and finding it very nice (it had, in fact, a sort of mixed
+ 333 flavour of cherry-tart, custard, pineapple, roast turkey, coffee, and
+ 334 hot buttered toast,) she very soon finished it off.
+ 335 
+ 336        *       *       *       *       *
+ 337 
+ 338 "What a curious feeling!" said Alice. "I must be shutting up like a
+ 339 telescope."
+ 340 
+ 341 And so it was indeed: she was now only ten inches high, and her face
+ 342 brightened up at the thought that she was now the right size for going
+ 343 through that little door into that lovely garden. First, however, she
+ 344 waited for a few minutes to see if she was going to shrink any further:
+ 345 she felt a little nervous about this: "for it might end, you know," said
+ 346 Alice to herself, "in my going out altogether, like a candle. I wonder
+ 347 what I should be like then?" And she tried to fancy what the flame of a
+ 348 candle looks like after the candle is blown out, for she could not
+ 349 remember ever having seen such a thing.
+ 350 
+ 351 After a while, finding that nothing more happened, she decided on going
+ 352 into the garden at once; but, alas for poor Alice! when she got to the
+ 353 door, she found she had forgotten the little golden key, and when she
+ 354 went back to the table for it, she found she could not possibly reach
+ 355 it: she could see it quite plainly through the glass, and she tried her
+ 356 best to climb up one of the legs of the table, but it was too slippery;
+ 357 and when she had tired herself out with trying, the poor little thing
+ 358 sat down and cried.
+ 359 
+ 360 "Come, there's no use in crying like that!" said Alice to herself,
+ 361 rather sharply. "I advise you to leave off this minute!" She generally
+ 362 gave herself very good advice (though she very seldom followed it), and
+ 363 sometimes she scolded herself so severely as to bring tears into her
+ 364 eyes; and once she remembered trying to box her own ears for having
+ 365 cheated herself in a game of croquet she was playing against herself,
+ 366 for this curious child was very fond of pretending to be two people.
+ 367 "But it's no use now," thought poor Alice, "to pretend to be two people!
+ 368 Why there's hardly enough of me left to make _one_ respectable person!"
+ 369 
+ 370 Soon her eye fell on a little glass box that was lying under the table:
+ 371 she opened it, and found in it a very small cake, on which the words
+ 372 "EAT ME" were beautifully marked in currants. "Well, I'll eat it," said
+ 373 Alice, "and if it makes me grow larger, I can reach the key; and if it
+ 374 makes me grow smaller, I can creep under the door; so either way I'll
+ 375 get into the garden, and I don't care which happens!"
+ 376 
+ 377 She ate a little bit, and said anxiously to herself, "Which way? Which
+ 378 way?" holding her hand on the top of her head to feel which way it was
+ 379 growing, and she was quite surprised to find that she remained the same
+ 380 size; to be sure, this is what generally happens when one eats cake,
+ 381 but Alice had got so much into the way of expecting nothing but
+ 382 out-of-the-way things to happen, that it seemed quite dull and stupid
+ 383 for life to go on in the common way.
+ 384 
+ 385 So she set to work, and very soon finished off the cake.
+ 386 
+ 387        *       *       *       *       *
+ 388 
+ 389 
+ 390 
+ 391 
+ 392 CHAPTER II
+ 393 
+ 394 
+ 395 [Sidenote: _Pool of Tears_]
+ 396 
+ 397 "CURIOUSER and curiouser!" cried Alice (she was so much
+ 398 surprised, that for a moment she quite forgot how to speak good
+ 399 English); "now I'm opening out like the largest telescope that ever was!
+ 400 Good-bye, feet!" (for when she looked down at her feet, they seemed to
+ 401 be almost out of sight, they were getting so far off). "Oh, my poor
+ 402 little feet, I wonder who will put on your shoes and stockings for you
+ 403 now, dears? I'm sure _I_ sha'n't be able! I shall be a great deal too
+ 404 far off to trouble myself about you: you must manage the best way you
+ 405 can--but I must be kind to them," thought Alice, "or perhaps they won't
+ 406 walk the way I want to go! Let me see: I'll give them a new pair of
+ 407 boots every Christmas."
+ 408 
+ 409 And she went on planning to herself how she would manage it. "They must
+ 410 go by the carrier," she thought; "and how funny it'll seem, sending
+ 411 presents to one's own feet! And how odd the directions will look!
+ 412 
+ 413           Alice's Right Foot, Esq.
+ 414               Hearthrug,
+ 415                   near the Fender,
+ 416                       (with Alice's love).
+ 417 
+ 418 Oh dear, what nonsense I'm talking!"
+ 419 
+ 420 Just then her head struck against the roof of the hall: in fact she was
+ 421 now rather more than nine feet high, and she at once took up the little
+ 422 golden key and hurried off to the garden door.
+ 423 
+ 424 Poor Alice! It was as much as she could do, lying down on one side, to
+ 425 look through into the garden with one eye; but to get through was more
+ 426 hopeless than ever: she sat down and began to cry again.
+ 427 
+ 428 "You ought to be ashamed of yourself," said Alice, "a great girl like
+ 429 you" (she might well say this), "to go on crying in this way! Stop this
+ 430 moment, I tell you!" But she went on all the same, shedding gallons of
+ 431 tears, until there was a large pool all round her, about four inches
+ 432 deep and reaching half down the hall.
+ 433 
+ 434 [Illustration: CURIOUSER AND CURIOUSER]
+ 435 
+ 436 After a time she heard a little pattering of feet in the distance, and
+ 437 she hastily dried her eyes to see what was coming. It was the White
+ 438 Rabbit returning, splendidly dressed, with a pair of white kid gloves in
+ 439 one hand and a large fan in the other: he came trotting along in a great
+ 440 hurry, muttering to himself as he came, "Oh! the Duchess, the Duchess!
+ 441 Oh! won't she be savage if I've kept her waiting!" Alice felt so
+ 442 desperate that she was ready to ask help of any one; so, when the
+ 443 Rabbit came near her, she began, in a low, timid voice, "If you please,
+ 444 sir----" The Rabbit started violently, dropped the white kid gloves and
+ 445 the fan, and scurried away into the darkness as hard as he could go.
+ 446 
+ 447 Alice took up the fan and gloves, and, as the hall was very hot, she
+ 448 kept fanning herself all the time she went on talking! "Dear, dear! How
+ 449 queer everything is to-day! And yesterday things went on just as usual.
+ 450 I wonder if I've been changed during the night? Let me think: _was_ I
+ 451 the same when I got up this morning? I almost think I can remember
+ 452 feeling a little different. But if I'm not the same, the next question
+ 453 is, who in the world am I? Ah, _that's_ the great puzzle!" And she began
+ 454 thinking over all the children she knew that were of the same age as
+ 455 herself, to see if she could have been changed for any of them.
+ 456 
+ 457 "I'm sure I'm not Ada," she said, "for her hair goes in such long
+ 458 ringlets, and mine doesn't go in ringlets at all; and I'm sure I can't
+ 459 be Mabel, for I know all sorts of things, and she, oh! she knows such a
+ 460 very little! Besides, _she's_ she, and _I'm_ I, and--oh dear, how
+ 461 puzzling it all is! I'll try if I know all the things I used to know.
+ 462 Let me see: four times five is twelve, and four times six is thirteen,
+ 463 and four times seven is--oh dear! I shall never get to twenty at that
+ 464 rate! However, the Multiplication Table doesn't signify: let's try
+ 465 Geography. London is the capital of Paris, and Paris is the capital of
+ 466 Rome, and Rome--no, _that's_ all wrong, I'm certain! I must have been
+ 467 changed for Mabel! I'll try and say '_How doth the little----_'" and she
+ 468 crossed her hands on her lap as if she were saying lessons, and began to
+ 469 repeat it, but her voice sounded hoarse and strange, and the words did
+ 470 not come the same as they used to do:--
+ 471 
+ 472           "How doth the little crocodile
+ 473              Improve his shining tail,
+ 474            And pour the waters of the Nile
+ 475              On every golden scale!
+ 476 
+ 477           "How cheerfully he seems to grin,
+ 478              How neatly spreads his claws,
+ 479            And welcomes little fishes in,
+ 480              With gently smiling jaws!"
+ 481 
+ 482 "I'm sure those are not the right words," said poor Alice, and her eyes
+ 483 filled with tears again as she went on. "I must be Mabel, after all, and
+ 484 I shall have to go and live in that poky little house, and have next to
+ 485 no toys to play with, and oh! ever so many lessons to learn! No, I've
+ 486 made up my mind about it; if I'm Mabel, I'll stay down here! It'll be no
+ 487 use their putting their heads down and saying, 'Come up again, dear!' I
+ 488 shall only look up and say, 'Who am I then? Tell me that first, and
+ 489 then, if I like being that person, I'll come up: if not, I'll stay down
+ 490 here till I'm somebody else'--but, oh dear!" cried Alice with a sudden
+ 491 burst of tears, "I do wish they _would_ put their heads down! I am so
+ 492 _very_ tired of being all alone here!"
+ 493 
+ 494 As she said this she looked down at her hands, and was surprised to see
+ 495 that she had put on one of the Rabbit's little white kid gloves while
+ 496 she was talking. "How _can_ I have done that?" she thought. "I must be
+ 497 growing small again." She got up and went to the table to measure
+ 498 herself by it, and found that, as nearly as she could guess, she was now
+ 499 about two feet high, and was going on shrinking rapidly: she soon found
+ 500 out that the cause of this was the fan she was holding, and she dropped
+ 501 it hastily, just in time to avoid shrinking away altogether.
+ 502 
+ 503 "That _was_ a narrow escape!" said Alice, a good deal frightened at the
+ 504 sudden change, but very glad to find herself still in existence; "and
+ 505 now for the garden!" and she ran with all speed back to the little door:
+ 506 but alas! the little door was shut again, and the little golden key was
+ 507 lying on the glass table as before, "and things are worse than ever,"
+ 508 thought the poor child, "for I never was so small as this before, never!
+ 509 And I declare it's too bad, that it is!"
+ 510 
+ 511 As she said these words her foot slipped, and in another moment, splash!
+ 512 she was up to her chin in salt water. Her first idea was that she had
+ 513 somehow fallen into the sea, "and in that case I can go back by
+ 514 railway," she said to herself. (Alice had been to the seaside once in
+ 515 her life, and had come to the general conclusion, that wherever you go
+ 516 to on the English coast you find a number of bathing machines in the
+ 517 sea, some children digging in the sand with wooden spades, then a row
+ 518 of lodging houses, and behind them a railway station.) However, she soon
+ 519 made out that she was in the pool of tears which she had wept when she
+ 520 was nine feet high.
+ 521 
+ 522 "I wish I hadn't cried so much!" said Alice, as she swam about, trying
+ 523 to find her way out. "I shall be punished for it now, I suppose, by
+ 524 being drowned in my own tears! That _will_ be a queer thing, to be sure!
+ 525 However, everything is queer to-day."
+ 526 
+ 527 Just then she heard something splashing about in the pool a little way
+ 528 off, and she swam nearer to make out what it was: at first she thought
+ 529 it must be a walrus or hippopotamus, but then she remembered how small
+ 530 she was now, and she soon made out that it was only a mouse that had
+ 531 slipped in like herself.
+ 532 
+ 533 "Would it be of any use now," thought Alice, "to speak to this mouse?
+ 534 Everything is so out-of-the-way down here, that I should think very
+ 535 likely it can talk: at any rate, there's no harm in trying." So she
+ 536 began: "O Mouse, do you know the way out of this pool? I am very tired
+ 537 of swimming about here, O Mouse!" (Alice thought this must be the right
+ 538 way of speaking to a mouse; she had never done such a thing before, but
+ 539 she remembered having seen in her brother's Latin Grammar, "A mouse--of
+ 540 a mouse--to a mouse--a mouse--O mouse!") The Mouse looked at her rather
+ 541 inquisitively, and seemed to her to wink with one of its little eyes,
+ 542 but it said nothing.
+ 543 
+ 544 "Perhaps it doesn't understand English," thought Alice; "I daresay it's
+ 545 a French mouse, come over with William the Conqueror." (For, with all
+ 546 her knowledge of history, Alice had no very clear notion how long ago
+ 547 anything had happened.) So she began again: "Où est ma chatte?" which
+ 548 was the first sentence in her French lesson-book. The Mouse gave a
+ 549 sudden leap out of the water, and seemed to quiver all over with fright.
+ 550 "Oh, I beg your pardon!" cried Alice hastily, afraid that she had hurt
+ 551 the poor animal's feelings. "I quite forgot you didn't like cats."
+ 552 
+ 553 "Not like cats!" cried the Mouse, in a shrill, passionate voice. "Would
+ 554 _you_ like cats if you were me?"
+ 555 
+ 556 "Well, perhaps not," said Alice in a soothing tone: "don't be angry
+ 557 about it. And yet I wish I could show you our cat Dinah: I think you'd
+ 558 take a fancy to cats if you could only see her. She is such a dear quiet
+ 559 thing," Alice went on, half to herself, as she swam lazily about in the
+ 560 pool, "and she sits purring so nicely by the fire, licking her paws and
+ 561 washing her face--and she is such a nice soft thing to nurse--and she's
+ 562 such a capital one for catching mice----oh, I beg your pardon!" cried
+ 563 Alice again, for this time the Mouse was bristling all over, and she
+ 564 felt certain it must be really offended. "We won't talk about her any
+ 565 more if you'd rather not."
+ 566 
+ 567 "We, indeed!" cried the Mouse, who was trembling down to the end of his
+ 568 tail. "As if _I_ would talk on such a subject! Our family always _hated_
+ 569 cats: nasty, low, vulgar things! Don't let me hear the name again!"
+ 570 
+ 571 [Illustration: _The Pool of Tears_]
+ 572 
+ 573 "I won't indeed!" said Alice, in a great hurry to change the subject of
+ 574 conversation. "Are you--are you fond--of--of dogs?" The Mouse did not
+ 575 answer, so Alice went on eagerly: "There is such a nice little dog near
+ 576 our house I should like to show you! A little bright-eyed terrier, you
+ 577 know, with oh, such long curly brown hair! And it'll fetch things
+ 578 when you throw them, and it'll sit up and beg for its dinner, and all
+ 579 sorts of things--I can't remember half of them--and it belongs to a
+ 580 farmer, you know, and he says it's so useful, it's worth a hundred
+ 581 pounds! He says it kills all the rats and--oh dear!" cried Alice in a
+ 582 sorrowful tone, "I'm afraid I've offended it again!" For the Mouse was
+ 583 swimming away from her as hard as it could go, and making quite a
+ 584 commotion in the pool as it went.
+ 585 
+ 586 So she called softly after it, "Mouse dear! Do come back again, and we
+ 587 won't talk about cats or dogs either, if you don't like them!"
+ 588 
+ 589 When the Mouse heard this, it turned round and swam slowly back to her:
+ 590 its face was quite pale (with passion, Alice thought), and it said in a
+ 591 low trembling voice, "Let us get to the shore, and then I'll tell you my
+ 592 history, and you'll understand why it is I hate cats and dogs."
+ 593 
+ 594 It was high time to go, for the pool was getting quite crowded with the
+ 595 birds and animals that had fallen into it: there were a Duck and a Dodo,
+ 596 a Lory and an Eaglet, and several other curious creatures. Alice led the
+ 597 way, and the whole party swam to the shore.
+ 598 
+ 599 
+ 600 
+ 601 
+ 602 CHAPTER III
+ 603 
+ 604 
+ 605 [Sidenote: _A Caucus-race and a Long Tale_]
+ 606 
+ 607 THEY were indeed a queer-looking party that assembled on
+ 608 the bank--the birds with draggled feathers, the animals with their fur
+ 609 clinging close to them, and all dripping wet, cross, and uncomfortable.
+ 610 
+ 611 The first question of course was, how to get dry again: they had a
+ 612 consultation about this, and after a few minutes it seemed quite natural
+ 613 to Alice to find herself talking familiarly with them, as if she had
+ 614 known them all her life. Indeed, she had quite a long argument with the
+ 615 Lory, who at last turned sulky, and would only say, "I am older than
+ 616 you, and must know better;" and this Alice would not allow without
+ 617 knowing how old it was, and, as the Lory positively refused to tell its
+ 618 age, there was no more to be said.
+ 619 
+ 620 At last the Mouse, who seemed to be a person of authority among them,
+ 621 called out "Sit down, all of you, and listen to me! _I'll_ soon make you
+ 622 dry enough!" They all sat down at once, in a large ring, with the Mouse
+ 623 in the middle. Alice kept her eyes anxiously fixed on it, for she felt
+ 624 sure she would catch a bad cold if she did not get dry very soon.
+ 625 
+ 626 "Ahem!" said the Mouse with an important air. "Are you all ready? This
+ 627 is the driest thing I know. Silence all round, if you please! 'William
+ 628 the Conqueror, whose cause was favoured by the pope, was soon submitted
+ 629 to by the English, who wanted leaders, and had been of late much
+ 630 accustomed to usurpation and conquest. Edwin and Morcar, the earls of
+ 631 Mercia and Northumbria--'"
+ 632 
+ 633 "Ugh!" said the Lory, with a shiver.
+ 634 
+ 635 "I beg your pardon!" said the Mouse, frowning, but very politely. "Did
+ 636 you speak?"
+ 637 
+ 638 "Not I!" said the Lory hastily.
+ 639 
+ 640 "I thought you did," said the Mouse, "--I proceed. 'Edwin and Morcar,
+ 641 the earls of Mercia and Northumbria, declared for him: and even
+ 642 Stigand, the patriotic Archbishop of Canterbury, found it advisable--'"
+ 643 
+ 644 "Found _what_?" said the Duck.
+ 645 
+ 646 "Found _it_," the Mouse replied rather crossly: "of course you know what
+ 647 'it' means."
+ 648 
+ 649 "I know what 'it' means well enough, when _I_ find a thing," said the
+ 650 Duck; "it's generally a frog or a worm. The question is, what did the
+ 651 archbishop find?"
+ 652 
+ 653 The Mouse did not notice this question, but hurriedly went on, "'--found
+ 654 it advisable to go with Edgar Atheling to meet William and offer him the
+ 655 crown. William's conduct at first was moderate. But the insolence of his
+ 656 Normans--' How are you getting on now, my dear?" it continued, turning
+ 657 to Alice as it spoke.
+ 658 
+ 659 "As wet as ever," said Alice in a melancholy tone; "doesn't seem to dry
+ 660 me at all."
+ 661 
+ 662 "In that case," said the Dodo solemnly, rising to its feet, "I move that
+ 663 the meeting adjourn, for the immediate adoption of more energetic
+ 664 remedies----"
+ 665 
+ 666 "Speak English!" said the Eaglet. "I don't know the meaning of half
+ 667 those long words, and, what's more, I don't believe you do either!" And
+ 668 the Eaglet bent down its head to hide a smile: some of the other birds
+ 669 tittered audibly.
+ 670 
+ 671 "What I was going to say," said the Dodo in an offended tone, "was that
+ 672 the best thing to get us dry would be a Caucus-race."
+ 673 
+ 674 "What _is_ a Caucus-race?" said Alice; not that she much wanted to know,
+ 675 but the Dodo had paused as if it thought that _somebody_ ought to speak,
+ 676 and no one else seemed inclined to say anything.
+ 677 
+ 678 "Why," said the Dodo, "the best way to explain it is to do it." (And, as
+ 679 you might like to try the thing yourself some winter day, I will tell
+ 680 you how the Dodo managed it.)
+ 681 
+ 682 First it marked out a race-course, in a sort of circle, ("the exact
+ 683 shape doesn't matter," it said,) and then all the party were placed
+ 684 along the course, here and there. There was no "One, two, three, and
+ 685 away," but they began running when they liked, and left off when they
+ 686 liked, so that it was not easy to know when the race was over. However,
+ 687 when they had been running half an hour or so, and were quite dry again,
+ 688 the Dodo suddenly called "The race is over!" and they all crowded round
+ 689 it, panting, and asking "But who has won?"
+ 690 
+ 691 This question the Dodo could not answer without a great deal of thought,
+ 692 and it stood for a long time with one finger pressed upon its forehead
+ 693 (the position in which you usually see Shakespeare, in the pictures of
+ 694 him), while the rest waited in silence. At last the Dodo said
+ 695 "_Everybody_ has won, and _all_ must have prizes."
+ 696 
+ 697 "But who is to give the prizes?" quite a chorus of voices asked.
+ 698 
+ 699 "Why, _she_, of course," said the Dodo, pointing to Alice with one
+ 700 finger; and the whole party at once crowded round her, calling out in a
+ 701 confused way, "Prizes! Prizes!"
+ 702 
+ 703 Alice had no idea what to do, and in despair she put her hand in her
+ 704 pocket, and pulled out a box of comfits (luckily the salt water had not
+ 705 got into it), and handed them round as prizes. There was exactly one
+ 706 apiece all round.
+ 707 
+ 708           _They all crowded round it panting and asking,
+ 709           "But who has won?"_
+ 710 
+ 711 [Illustration]
+ 712 
+ 713 "But she must have a prize herself, you know," said the Mouse.
+ 714 
+ 715 "Of course," the Dodo replied very gravely.
+ 716 
+ 717 "What else have you got in your pocket?" it went on, turning to Alice.
+ 718 
+ 719 "Only a thimble," said Alice sadly.
+ 720 
+ 721 "Hand it over here," said the Dodo.
+ 722 
+ 723 Then they all crowded round her once more, while the Dodo solemnly
+ 724 presented the thimble, saying "We beg your acceptance of this elegant
+ 725 thimble;" and, when it had finished this short speech, they all cheered.
+ 726 
+ 727 Alice thought the whole thing very absurd, but they all looked so grave
+ 728 that she did not dare to laugh; and, as she could not think of anything
+ 729 to say, she simply bowed, and took the thimble, looking as solemn as she
+ 730 could.
+ 731 
+ 732 The next thing was to eat the comfits; this caused some noise and
+ 733 confusion, as the large birds complained that they could not taste
+ 734 theirs, and the small ones choked and had to be patted on the back.
+ 735 However, it was over at last, and they sat down again in a ring, and
+ 736 begged the Mouse to tell them something more.
+ 737 
+ 738 "You promised to tell me your history, you know," said Alice, "and why
+ 739 it is you hate--C and D," she added in a whisper, half afraid that it
+ 740 would be offended again.
+ 741 
+ 742 [Illustration]
+ 743 
+ 744 "Mine is a long and sad tale!" said the Mouse, turning to Alice and
+ 745 sighing.
+ 746 
+ 747 "It _is_ a long tail, certainly," said Alice, looking down with wonder
+ 748 at the Mouse's tail; "but why do you call it sad?" And she kept on
+ 749 puzzling about it while the Mouse was speaking, so that her idea of the
+ 750 tale was something like this:--
+ 751 
+ 752           "Fury said to
+ 753               a mouse, That
+ 754                   he met in the
+ 755                       house, 'Let
+ 756                         us both go
+ 757                           to law: _I_
+ 758                              will prose-
+ 759                               cute _you_.--
+ 760                              Come, I'll
+ 761                            take no de-
+ 762                          nial: We
+ 763                      must have
+ 764                  the trial;
+ 765               For really
+ 766              this morn-
+ 767            ing I've
+ 768           nothing
+ 769            to do.'
+ 770             Said the
+ 771              mouse to
+ 772               the cur,
+ 773                'Such a
+ 774                 trial, dear
+ 775                   sir, With
+ 776                    no jury
+ 777                      or judge,
+ 778                        would
+ 779                         be wast-
+ 780                        ing our
+ 781                       breath.'
+ 782                     'I'll be
+ 783                    judge,
+ 784                  I'll be
+ 785                jury,'
+ 786              said
+ 787            cun-
+ 788           ning
+ 789            old
+ 790             Fury:
+ 791              'I'll
+ 792                 try
+ 793                  the
+ 794                   whole
+ 795                    cause,
+ 796                        and
+ 797                      con-
+ 798                   demn
+ 799               you to
+ 800             death.'
+ 801 
+ 802 "You are not attending!" said the Mouse to Alice severely. "What are you
+ 803 thinking of?"
+ 804 
+ 805 "I beg your pardon," said Alice very humbly: "you had got to the fifth
+ 806 bend, I think?"
+ 807 
+ 808 "I had _not_!" cried the Mouse, angrily.
+ 809 
+ 810 "A knot!" said Alice, always ready to make herself useful, and looking
+ 811 anxiously about her. "Oh, do let me help to undo it!"
+ 812 
+ 813 "I shall do nothing of the sort," said the Mouse, getting up and walking
+ 814 away. "You insult me by talking such nonsense!"
+ 815 
+ 816 "I didn't mean it!" pleaded poor Alice. "But you're so easily offended,
+ 817 you know!"
+ 818 
+ 819 The Mouse only growled in reply.
+ 820 
+ 821 "Please come back and finish your story!" Alice called after it. And the
+ 822 others all joined in chorus, "Yes, please do!" but the Mouse only shook
+ 823 its head impatiently and walked a little quicker.
+ 824 
+ 825 "What a pity it wouldn't stay!" sighed the Lory, as soon as it was quite
+ 826 out of sight; and an old Crab took the opportunity of saying to her
+ 827 daughter, "Ah, my dear! Let this be a lesson to you never to lose
+ 828 _your_ temper!" "Hold your tongue, Ma!" said the young Crab, a little
+ 829 snappishly. "You're enough to try the patience of an oyster!"
+ 830 
+ 831 "I wish I had our Dinah here, I know I do!" said Alice aloud, addressing
+ 832 nobody in particular. "She'd soon fetch it back!"
+ 833 
+ 834 "And who is Dinah, if I might venture to ask the question?" said the
+ 835 Lory.
+ 836 
+ 837 Alice replied eagerly, for she was always ready to talk about her pet:
+ 838 "Dinah's our cat. And she's such a capital one for catching mice, you
+ 839 ca'n't think! And oh, I wish you could see her after the birds! Why,
+ 840 she'll eat a little bird as soon as look at it!"
+ 841 
+ 842 This speech caused a remarkable sensation among the party. Some of the
+ 843 birds hurried off at once; one old Magpie began wrapping itself up very
+ 844 carefully, remarking "I really must be getting home; the night-air
+ 845 doesn't suit my throat!" and a Canary called out in a trembling voice to
+ 846 its children "Come away, my dears! It's high time you were all in bed!"
+ 847 On various pretexts they all moved off, and Alice was soon left alone.
+ 848 
+ 849 "I wish I hadn't mentioned Dinah!" she said to herself in a melancholy
+ 850 tone. "Nobody seems to like her, down here, and I'm sure she's the best
+ 851 cat in the world! Oh, my dear Dinah! I wonder if I shall ever see you
+ 852 any more!" And here poor Alice began to cry again, for she felt very
+ 853 lonely and low-spirited. In a little while, however, she again heard a
+ 854 little pattering of footsteps in the distance, and she looked up
+ 855 eagerly, half hoping that the Mouse had changed his mind, and was coming
+ 856 back to finish his story.
+ 857 
+ 858 
+ 859 
+ 860 
+ 861 CHAPTER IV
+ 862 
+ 863 
+ 864 [Sidenote: _The Rabbit sends in a Little Bill_]
+ 865 
+ 866 IT was the White Rabbit, trotting slowly back again, and
+ 867 looking anxiously about as it went, as if it had lost something; and she
+ 868 heard it muttering to itself, "The Duchess! The Duchess! Oh my dear
+ 869 paws! Oh my fur and whiskers! She'll get me executed, as sure as ferrets
+ 870 are ferrets! Where _can_ I have dropped them, I wonder?" Alice guessed
+ 871 in a moment that it was looking for the fan and the pair of white kid
+ 872 gloves, and she very good-naturedly began hunting about for them, but
+ 873 they were nowhere to be seen--everything seemed to have changed since
+ 874 her swim in the pool, and the great hall, with the glass table and the
+ 875 little door, had vanished completely.
+ 876 
+ 877 Very soon the Rabbit noticed Alice, as she went hunting about, and
+ 878 called out to her in an angry tone, "Why, Mary Ann, what _are_ you
+ 879 doing out here? Run home this moment, and fetch me a pair of gloves and
+ 880 a fan! Quick, now!" And Alice was so much frightened that she ran off at
+ 881 once in the direction it pointed to, without trying to explain the
+ 882 mistake it had made.
+ 883 
+ 884 "He took me for his housemaid," she said to herself as she ran. "How
+ 885 surprised he'll be when he finds out who I am! But I'd better take him
+ 886 his fan and gloves--that is, if I can find them." As she said this, she
+ 887 came upon a neat little house, on the door of which was a bright brass
+ 888 plate with the name "W. RABBIT" engraved upon it. She went in without
+ 889 knocking, and hurried up stairs, in great fear lest she should meet the
+ 890 real Mary Ann, and be turned out of the house before she had found the
+ 891 fan and gloves.
+ 892 
+ 893 [Illustration: "_Why, Mary Ann, what are you doing out here?_"]
+ 894 
+ 895 "How queer it seems," Alice said to herself, "to be going messages for a
+ 896 rabbit! I suppose Dinah'll be sending me on messages next!" And she
+ 897 began fancying the sort of thing that would happen: "'Miss Alice! Come
+ 898 here directly, and get ready for your walk!' 'Coming in a minute, nurse!
+ 899 But I've got to watch this mouse-hole till Dinah comes back, and see
+ 900 that the mouse doesn't get out.' Only I don't think," Alice went on,
+ 901 "that they'd let Dinah stop in the house if it began ordering people
+ 902 about like that!"
+ 903 
+ 904 By this time she had found her way into a tidy little room with a table
+ 905 in the window, and on it (as she had hoped) a fan and two or three pairs
+ 906 of tiny white kid gloves: she took up the fan and a pair of the gloves,
+ 907 and was just going to leave the room, when her eye fell upon a little
+ 908 bottle that stood near the looking-glass. There was no label this time
+ 909 with the words "DRINK ME," but nevertheless she uncorked it and put it
+ 910 to her lips. "I know _something_ interesting is sure to happen," she
+ 911 said to herself, "whenever I eat or drink anything; so I'll just see
+ 912 what this bottle does. I do hope it will make me grow large again, for
+ 913 really I'm quite tired of being such a tiny little thing!"
+ 914 
+ 915 It did so indeed, and much sooner than she had expected: before she had
+ 916 drunk half the bottle, she found her head pressing against the ceiling,
+ 917 and had to stoop to save her neck from being broken. She hastily put
+ 918 down the bottle, saying to herself "That's quite enough--I hope I
+ 919 sha'n't grow any more--As it is, I can't get out at the door--I do wish
+ 920 I hadn't drunk quite so much!"
+ 921 
+ 922 Alas! it was too late to wish that! She went on growing, and growing,
+ 923 and very soon had to kneel down on the floor: in another minute there
+ 924 was not even room for this, and she tried the effect of lying down with
+ 925 one elbow against the door, and the other arm curled round her head.
+ 926 Still she went on growing, and, as a last resource, she put one arm out
+ 927 of the window, and one foot up the chimney, and said to herself "Now I
+ 928 can do no more, whatever happens. What _will_ become of me?"
+ 929 
+ 930 Luckily for Alice, the little magic bottle had now had its full effect,
+ 931 and she grew no larger: still it was very uncomfortable, and, as there
+ 932 seemed to be no sort of chance of her ever getting out of the room
+ 933 again, no wonder she felt unhappy.
+ 934 
+ 935 "It was much pleasanter at home," thought poor Alice, "when one wasn't
+ 936 always growing larger and smaller, and being ordered about by mice and
+ 937 rabbits. I almost wish I hadn't gone down that rabbit-hole--and
+ 938 yet--and yet--it's rather curious, you know, this sort of life! I do
+ 939 wonder what _can_ have happened to me! When I used to read fairy-tales,
+ 940 I fancied that kind of thing never happened, and now here I am in the
+ 941 middle of one! There ought to be a book written about me, that there
+ 942 ought! And when I grow up, I'll write one--but I'm grown up now," she
+ 943 added in a sorrowful tone; "at least there's no room to grow up any more
+ 944 _here_."
+ 945 
+ 946 "But then," thought Alice, "shall I _never_ get any older than I am now?
+ 947 That'll be a comfort, one way--never to be an old woman--but
+ 948 then--always to have lessons to learn! Oh, I shouldn't like _that_!"
+ 949 
+ 950 "Oh, you foolish Alice!" she answered herself. "How can you learn
+ 951 lessons in here? Why, there's hardly room for _you_, and no room at all
+ 952 for any lesson-books!"
+ 953 
+ 954 And so she went on, taking first one side and then the other, and making
+ 955 quite a conversation of it altogether; but after a few minutes she heard
+ 956 a voice outside, and stopped to listen.
+ 957 
+ 958 "Mary Ann! Mary Ann!" said the voice. "Fetch me my gloves this moment!"
+ 959 Then came a little pattering of feet on the stairs. Alice knew it was
+ 960 the Rabbit coming to look for her, and she trembled till she shook the
+ 961 house, quite forgetting that she was now about a thousand times as large
+ 962 as the Rabbit, and had no reason to be afraid of it.
+ 963 
+ 964 Presently the Rabbit came up to the door, and tried to open it; but, as
+ 965 the door opened inwards, and Alice's elbow was pressed hard against it,
+ 966 that attempt proved a failure. Alice heard it say to itself "Then I'll
+ 967 go round and get in at the window."
+ 968 
+ 969 "_That_ you won't" thought Alice, and, after waiting till she fancied
+ 970 she heard the Rabbit just under the window, she suddenly spread out her
+ 971 hand, and made a snatch in the air. She did not get hold of anything,
+ 972 but she heard a little shriek and a fall, and a crash of broken glass,
+ 973 from which she concluded that it was just possible it had fallen into a
+ 974 cucumber-frame, or something of the sort.
+ 975 
+ 976 Next came an angry voice--the Rabbit's--"Pat! Pat! Where are you?" And
+ 977 then a voice she had never heard before, "Sure then I'm here! Digging
+ 978 for apples, yer honour!"
+ 979 
+ 980 "Digging for apples, indeed!" said the Rabbit angrily. "Here! Come and
+ 981 help me out of _this_!" (Sounds of more broken glass.)
+ 982 
+ 983 "Now tell me, Pat, what's that in the window?"
+ 984 
+ 985 "Sure, it's an arm, yer honour." (He pronounced it "arrum.")
+ 986 
+ 987 "An arm, you goose! Who ever saw one that size? Why, it fills the whole
+ 988 window!"
+ 989 
+ 990 "Sure, it does, yer honour? but it's an arm for all that."
+ 991 
+ 992 "Well, it's got no business there, at any rate: go and take it away!"
+ 993 
+ 994 There was a long silence after this, and Alice could only hear whispers
+ 995 now and then; such as, "Sure, I don't like it, yer honour, at all, at
+ 996 all!" "Do as I tell you, you coward!" and at last she spread out her
+ 997 hand again, and made another snatch in the air. This time there were
+ 998 _two_ little shrieks, and more sounds of broken glass. "What a number of
+ 999 cucumber-frames there must be!" thought Alice. "I wonder what they'll do
+1000 next! As for pulling me out of the window, I only wish they _could_!
+1001 I'm sure _I_ don't want to stay in here any longer!"
+1002 
+1003 She waited for some time without hearing anything more: at last came a
+1004 rumbling of little cart-wheels, and the sound of a good many voices all
+1005 talking together: she made out the words: "Where's the other
+1006 ladder?--Why I hadn't to bring but one; Bill's got the other--Bill!
+1007 Fetch it here, lad!--Here, put 'em up at this corner--No, tie 'em
+1008 together first--they don't reach half high enough yet--Oh! they'll do
+1009 well enough; don't be particular--Here, Bill! catch hold of this
+1010 rope--Will the roof bear?--Mind that loose slate--Oh, it's coming down!
+1011 Heads below!" (a loud crash)--"Now, who did that?--It was Bill, I
+1012 fancy--Who's to go down the chimney?--Nay, _I_ sha'n't! _You_ do
+1013 it!--_That_ I won't, then! Bill's to go down--Here, Bill! the master
+1014 says you've to go down the chimney!"
+1015 
+1016 "Oh! So Bill's got to come down the chimney, has he?" said Alice to
+1017 herself. "Why, they seem to put everything upon Bill! I wouldn't be in
+1018 Bill's place for a good deal: this fireplace is narrow, to be sure; but
+1019 I _think_ I can kick a little!"
+1020 
+1021 She drew her foot as far down the chimney as she could, and waited till
+1022 she heard a little animal (she couldn't guess of what sort it was)
+1023 scratching and scrambling about in the chimney close above her: then,
+1024 saying to herself "This is Bill," she gave one sharp kick, and waited to
+1025 see what would happen next.
+1026 
+1027 The first thing she heard was a general chorus of "There goes Bill!"
+1028 then the Rabbit's voice alone--"Catch him, you by the hedge!" then
+1029 silence, and then another confusion of voices--"Hold up his head--Brandy
+1030 now--Don't choke him--How was it, old fellow? What happened to you? Tell
+1031 us all about it!"
+1032 
+1033 At last came a little feeble, squeaking voice, ("That's Bill," thought
+1034 Alice,) "Well, I hardly know--No more, thank ye; I'm better now--but I'm
+1035 a deal too flustered to tell you--all I know is, something comes at me
+1036 like a Jack-in-the-box, and up I goes like a sky-rocket!"
+1037 
+1038 "So you did, old fellow!" said the others.
+1039 
+1040 "We must burn the house down!" said the Rabbit's voice. And Alice
+1041 called out as loud as she could, "If you do, I'll set Dinah at you!"
+1042 
+1043 There was a dead silence instantly, and Alice thought to herself "I
+1044 wonder what they _will_ do next! If they had any sense, they'd take the
+1045 roof off." After a minute or two they began moving about again, and
+1046 Alice heard the Rabbit say "A barrowful will do, to begin with."
+1047 
+1048 "A barrowful of _what_?" thought Alice. But she had not long to doubt,
+1049 for the next moment a shower of little pebbles came rattling in at the
+1050 window, and some of them hit her in the face. "I'll put a stop to this,"
+1051 she said to herself, and shouted out "You'd better not do that again!"
+1052 which produced another dead silence.
+1053 
+1054 Alice noticed with some surprise that the pebbles were all turning into
+1055 little cakes as they lay on the floor, and a bright idea came into her
+1056 head. "If I eat one of these cakes," she thought, "it's sure to make
+1057 _some_ change in my size; and, as it can't possibly make me larger, it
+1058 must make me smaller, I suppose."
+1059 
+1060 So she swallowed one of the cakes, and was delighted to find that she
+1061 began shrinking directly. As soon as she was small enough to get through
+1062 the door, she ran out of the house, and found quite a crowd of little
+1063 animals and birds waiting outside. The poor little Lizard, Bill, was in
+1064 the middle, being held up by two guinea-pigs, who were giving it
+1065 something out of a bottle. They all made a rush at Alice the moment she
+1066 appeared; but she ran off as hard as she could, and soon found herself
+1067 safe in a thick wood.
+1068 
+1069 "The first thing I've got to do," said Alice to herself, as she wandered
+1070 about in the wood, "is to grow to my right size again; and the second
+1071 thing is to find my way into that lovely garden. I think that will be
+1072 the best plan."
+1073 
+1074 It sounded an excellent plan, no doubt, and very neatly and simply
+1075 arranged; the only difficulty was, that she had not the smallest idea
+1076 how to set about it; and, while she was peering about anxiously among
+1077 the trees, a little sharp bark just over her head made her look up in a
+1078 great hurry.
+1079 
+1080 An enormous puppy was looking down at her with large round eyes, and
+1081 feebly stretching out one paw, trying to touch her. "Poor little
+1082 thing!" said Alice, in a coaxing tone, and she tried hard to whistle to
+1083 it; but she was terribly frightened all the time at the thought that it
+1084 might be hungry, in which case it would be very likely to eat her up in
+1085 spite of all her coaxing.
+1086 
+1087 Hardly knowing what she did, she picked up a little bit of stick, and
+1088 held it out to the puppy; whereupon the puppy jumped into the air off
+1089 all its feet at once, with a yelp of delight, and rushed at the stick,
+1090 and made believe to worry it; then Alice dodged behind a great thistle,
+1091 to keep herself from being run over; and, the moment she appeared on the
+1092 other side, the puppy made another rush at the stick, and tumbled head
+1093 over heels in its hurry to get hold of it; then Alice, thinking it was
+1094 very like having a game of play with a cart-horse, and expecting every
+1095 moment to be trampled under its feet, ran round the thistle again; then
+1096 the puppy began a series of short charges at the stick, running a little
+1097 way forwards each time and a long way back, and barking hoarsely all the
+1098 while, till at last it sat down a good way off, panting, with its
+1099 tongue hanging out of its mouth, and its great eyes half shut.
+1100 
+1101 This seemed to Alice a good opportunity for making her escape; so she
+1102 set off at once, and ran till she was quite tired and out of breath, and
+1103 till the puppy's bark sounded quite faint in the distance.
+1104 
+1105 "And yet what a dear little puppy it was!" said Alice, as she leant
+1106 against a buttercup to rest herself, and fanned herself with one of the
+1107 leaves. "I should have liked teaching it tricks very much, if--if I'd
+1108 only been the right size to do it! Oh, dear! I'd nearly forgotten that
+1109 I've got to grow up again! Let me see--how _is_ it to be managed? I
+1110 suppose I ought to eat or drink something or other; but the great
+1111 question is, what?"
+1112 
+1113 The great question certainly was, what? Alice looked all round her at
+1114 the flowers and the blades of grass, but she could not see anything that
+1115 looked like the right thing to eat or drink under the circumstances.
+1116 There was a large mushroom growing near her, about the same height as
+1117 herself; and, when she had looked under it, and on both sides of it, and
+1118 behind it, it occurred to her that she might as well look and see what
+1119 was on the top of it.
+1120 
+1121 She stretched herself up on tiptoe, and peeped over the edge of the
+1122 mushroom, and her eyes immediately met those of a large blue
+1123 caterpillar, that was sitting on the top with its arms folded, quietly
+1124 smoking a long hookah, and taking not the smallest notice of her or of
+1125 anything else.
+1126 
+1127 
+1128 
+1129 
+1130 CHAPTER V
+1131 
+1132 
+1133 [Sidenote: _Advice from a Caterpillar_]
+1134 
+1135 THE Caterpillar and Alice looked at each other for some
+1136 time in silence: at last the Caterpillar took the hookah out of its
+1137 mouth, and addressed her in a languid, sleepy voice.
+1138 
+1139 "Who are _you_?" said the Caterpillar.
+1140 
+1141 This was not an encouraging opening for a conversation. Alice replied,
+1142 rather shyly, "I hardly know, sir, just at present--at least I know who
+1143 I _was_ when I got up this morning, but I think I must have been changed
+1144 several times since then."
+1145 
+1146 "What do you mean by that?" said the Caterpillar sternly. "Explain
+1147 yourself!"
+1148 
+1149 "I can't explain _myself_, I'm afraid, sir," said Alice, "because I'm
+1150 not myself, you see."
+1151 
+1152 "I don't see," said the Caterpillar.
+1153 
+1154 "I'm afraid I can't put it more clearly," Alice replied very politely,
+1155 "for I can't understand it myself to begin with; and being so many
+1156 different sizes in a day is very confusing."
+1157 
+1158 "It isn't," said the Caterpillar.
+1159 
+1160 "Well, perhaps you haven't found it so yet," said Alice, "but when you
+1161 have to turn into a chrysalis--you will some day, you know--and then
+1162 after that into a butterfly, I should think you'll feel it a little
+1163 queer, won't you?"
+1164 
+1165 "Not a bit," said the Caterpillar.
+1166 
+1167 "Well, perhaps your feelings may be different," said Alice; "all I know
+1168 is, it would feel very queer to _me_."
+1169 
+1170 "You!" said the Caterpillar contemptuously. "Who are _you_?"
+1171 
+1172 Which brought them back again to the beginning of the conversation.
+1173 Alice felt a little irritated at the Caterpillar's making such _very_
+1174 short remarks, and she drew herself up and said, very gravely, "I think
+1175 you ought to tell me who _you_ are, first."
+1176 
+1177 "Why?" said the Caterpillar.
+1178 
+1179 [Illustration: _Advice from a Caterpillar_]
+1180 
+1181 Here was another puzzling question; and as Alice could not think of any
+1182 good reason, and as the Caterpillar seemed to be in a _very_
+1183 unpleasant state of mind, she turned away.
+1184 
+1185 "Come back!" the Caterpillar called after her. "I've something important
+1186 to say!"
+1187 
+1188 This sounded promising, certainly: Alice turned and came back again.
+1189 
+1190 "Keep your temper," said the Caterpillar.
+1191 
+1192 "Is that all?" said Alice, swallowing down her anger as well as she
+1193 could.
+1194 
+1195 "No," said the Caterpillar.
+1196 
+1197 Alice thought she might as well wait, as she had nothing else to do, and
+1198 perhaps after all it might tell her something worth hearing. For some
+1199 minutes it puffed away without speaking, but at last it unfolded its
+1200 arms, took the hookah out of its mouth again, and said, "So you think
+1201 you're changed, do you?"
+1202 
+1203 "I'm afraid I am, sir," said Alice; "I can't remember things as I
+1204 used--and I don't keep the same size for ten minutes together!"
+1205 
+1206 "Can't remember _what_ things?" said the Caterpillar.
+1207 
+1208 "Well, I've tried to say '_How doth the little busy bee_,' but it all
+1209 came different!" Alice replied in a very melancholy voice.
+1210 
+1211 "Repeat '_You are old, Father William_,'" said the Caterpillar.
+1212 
+1213 Alice folded her hands, and began:--
+1214 
+1215           "You are old, Father William," the young man said,
+1216             "And your hair has become very white;
+1217           And yet you incessantly stand on your head--
+1218             Do you think, at your age, it is right?"
+1219 
+1220           "In my youth," Father William replied to his son,
+1221             "I feared it might injure the brain;
+1222           But, now that I'm perfectly sure I have none,
+1223             Why, I do it again and again."
+1224 
+1225           "You are old," said the youth, "as I mentioned before,
+1226             And have grown most uncommonly fat;
+1227           Yet you turned a back-somersault in at the door--
+1228             Pray, what is the reason of that?"
+1229 
+1230           "In my youth," said the sage, as he shook his grey locks,
+1231             "I kept all my limbs very supple
+1232           By the use of this ointment--one shilling the box--
+1233             Allow me to sell you a couple?"
+1234 
+1235           "You are old," said the youth, "and your jaws are too weak
+1236             For anything tougher than suet;
+1237           Yet you finished the goose, with the bones and the beak--
+1238             Pray, how did you manage to do it?"
+1239 
+1240           "In my youth," said his father, "I took to the law
+1241             And argued each case with my wife;
+1242           And the muscular strength, which it gave to my jaw,
+1243             Has lasted the rest of my life."
+1244 
+1245           "You are old," said the youth, "one would hardly suppose
+1246             That your eye was as steady as ever;
+1247           Yet you balanced an eel on the end of your nose--
+1248             What made you so awfully clever?"
+1249 
+1250           "I have answered three questions, and that is enough,"
+1251             Said his father; "don't give yourself airs!
+1252           Do you think I can listen all day to such stuff?
+1253             Be off, or I'll kick you down stairs!"
+1254 
+1255 "That is not said right," said the Caterpillar.
+1256 
+1257 "Not _quite_ right, I'm afraid," said Alice, timidly; "some of the
+1258 words have got altered."
+1259 
+1260 "It is wrong from beginning to end," said the Caterpillar, decidedly,
+1261 and there was silence for some minutes.
+1262 
+1263 The Caterpillar was the first to speak.
+1264 
+1265 "What size do you want to be?" it asked.
+1266 
+1267 "Oh, I'm not particular as to size," Alice hastily replied; "only one
+1268 doesn't like changing so often, you know."
+1269 
+1270 "I _don't_ know," said the Caterpillar.
+1271 
+1272 Alice said nothing: she had never been so much contradicted in all her
+1273 life before, and she felt that she was losing her temper.
+1274 
+1275 "Are you content now?" said the Caterpillar.
+1276 
+1277 "Well, I should like to be a _little_ larger, sir, if you wouldn't
+1278 mind," said Alice: "three inches is such a wretched height to be."
+1279 
+1280 "It is a very good height indeed!" said the Caterpillar angrily, rearing
+1281 itself upright as it spoke (it was exactly three inches high).
+1282 
+1283 "But I'm not used to it!" pleaded poor Alice in a piteous tone. And she
+1284 thought to herself, "I wish the creatures wouldn't be so easily
+1285 offended!"
+1286 
+1287 "You'll get used to it in time," said the Caterpillar; and it put its
+1288 hookah into its mouth and began smoking again.
+1289 
+1290 This time Alice waited patiently until it chose to speak again. In a
+1291 minute or two the Caterpillar took the hookah out of its mouth and
+1292 yawned once or twice, and shook itself. Then it got down off the
+1293 mushroom, and crawled away into the grass, merely remarking as it went,
+1294 "One side will make you grow taller, and the other side will make you
+1295 grow shorter."
+1296 
+1297 "One side of _what_? The other side of _what_?" thought Alice to
+1298 herself.
+1299 
+1300 "Of the mushroom," said the Caterpillar, just as if she had asked it
+1301 aloud; and in another moment it was out of sight.
+1302 
+1303 Alice remained looking thoughtfully at the mushroom for a minute, trying
+1304 to make out which were the two sides of it; and as it was perfectly
+1305 round, she found this a very difficult question. However, at last she
+1306 stretched her arms round it as far as they would go, and broke off a bit
+1307 of the edge with each hand.
+1308 
+1309 "And now which is which?" she said to herself, and nibbled a little of
+1310 the right-hand bit to try the effect: the next moment she felt a violent
+1311 blow underneath her chin: it had struck her foot!
+1312 
+1313 [Illustration]
+1314 
+1315 She was a good deal frightened by this very sudden change, but she felt
+1316 that there was no time to be lost, as she was shrinking rapidly; so she
+1317 set to work at once to eat some of the other bit. Her chin was pressed
+1318 so closely against her foot that there was hardly room to open her
+1319 mouth; but she did it at last, and managed to swallow a morsel of the
+1320 left-hand bit.
+1321 
+1322        *       *       *       *       *
+1323 
+1324 "Come, my head's free at last!" said Alice in a tone of delight, which
+1325 changed into alarm in another moment, when she found that her shoulders
+1326 were nowhere to be found: all she could see, when she looked down, was
+1327 an immense length of neck, which seemed to rise like a stalk out of a
+1328 sea of green leaves that lay far below her.
+1329 
+1330 "What _can_ all that green stuff be?" said Alice. "And where have my
+1331 shoulders got to? And oh, my poor hands, how is it I ca'n't see you?"
+1332 She was moving them about as she spoke, but no result seemed to follow,
+1333 except a little shaking among the distant green leaves.
+1334 
+1335 As there seemed to be no chance of getting her hands up to her head, she
+1336 tried to get her head down to them, and was delighted to find that her
+1337 neck would bend about easily in any direction, like a serpent. She had
+1338 just succeeded in curving it down into a graceful zigzag, and was going
+1339 to dive in among the leaves, which she found to be nothing but the tops
+1340 of the trees under which she had been wandering, when a sharp hiss made
+1341 her draw back in a hurry: a large pigeon had flown into her face, and
+1342 was beating her violently with its wings.
+1343 
+1344 "Serpent!" screamed the Pigeon.
+1345 
+1346 "I'm _not_ a serpent!" said Alice indignantly. "Let me alone!"
+1347 
+1348 "Serpent, I say again!" repeated the Pigeon, but in a more subdued tone,
+1349 and added with a kind of a sob, "I've tried every way, and nothing seems
+1350 to suit them!"
+1351 
+1352 "I haven't the least idea what you're talking about," said Alice.
+1353 
+1354 "I've tried the roots of trees, and I've tried banks, and I've tried
+1355 hedges," the Pigeon went on, without attending to her; "but those
+1356 serpents! There's no pleasing them!"
+1357 
+1358 Alice was more and more puzzled, but she thought there was no use in
+1359 saying anything more till the Pigeon had finished.
+1360 
+1361 "As if it wasn't trouble enough hatching the eggs," said the Pigeon;
+1362 "but I must be on the look-out for serpents night and day! Why, I
+1363 haven't had a wink of sleep these three weeks!"
+1364 
+1365 "I'm very sorry you've been annoyed," said Alice, who was beginning to
+1366 see its meaning.
+1367 
+1368 [Illustration]
+1369 
+1370 "And just as I'd taken the highest tree in the wood," continued the
+1371 Pigeon, raising its voice to a shriek, "and just as I was thinking I
+1372 should be free of them at last, they must needs come wriggling down from
+1373 the sky! Ugh, Serpent!"
+1374 
+1375 "But I'm _not_ a serpent, I tell you!" said Alice. "I'm a---- I'm a
+1376 ----"
+1377 
+1378 "Well! _What_ are you?" said the Pigeon. "I can see you're trying to
+1379 invent something!"
+1380 
+1381 "I--I'm a little girl," said Alice, rather doubtfully, as she remembered
+1382 the number of changes she had gone through that day.
+1383 
+1384 "A likely story indeed!" said the Pigeon in a tone of the deepest
+1385 contempt. "I've seen a good many little girls in my time, but never
+1386 _one_ with such a neck as that! No, no! You're a serpent; and there's no
+1387 use denying it. I suppose you'll be telling me next that you never
+1388 tasted an egg!"
+1389 
+1390 "I _have_ tasted eggs, certainly," said Alice, who was a very truthful
+1391 child; "but little girls eat eggs quite as much as serpents do, you
+1392 know."
+1393 
+1394 "I don't believe it," said the Pigeon; "but if they do, why then
+1395 they're a kind of serpent, that's all I can say."
+1396 
+1397 This was such a new idea to Alice, that she was quite silent for a
+1398 minute or two, which gave the Pigeon the opportunity of adding, "You're
+1399 looking for eggs, I know _that_ well enough; and what does it matter to
+1400 me whether you're a little girl or a serpent?"
+1401 
+1402 "It matters a good deal to _me_," said Alice hastily; "but I'm not
+1403 looking for eggs, as it happens; and if I was, I shouldn't want _yours_:
+1404 I don't like them raw."
+1405 
+1406 "Well, be off, then!" said the Pigeon in a sulky tone, as it settled
+1407 down again into its nest. Alice crouched down among the trees as well as
+1408 she could, for her neck kept getting entangled among the branches, and
+1409 every now and then she had to stop and untwist it. After a while she
+1410 remembered that she still held the pieces of mushroom in her hands, and
+1411 she set to work very carefully, nibbling first at one and then at the
+1412 other, and growing sometimes taller and sometimes shorter, until she had
+1413 succeeded in bringing herself down to her usual height.
+1414 
+1415 It was so long since she had been anything near the right size, that it
+1416 felt quite strange at first; but she got used to it in a few minutes,
+1417 and began talking to herself, as usual. "Come, there's half my plan done
+1418 now! How puzzling all these changes are! I'm never sure what I'm going
+1419 to be, from one minute to another! However, I've got back to my right
+1420 size: the next thing is, to get into that beautiful garden--how _is_
+1421 that to be done, I wonder?" As she said this, she came suddenly upon an
+1422 open place, with a little house in it about four feet high. "Whoever
+1423 lives there," thought Alice, "it'll never do to come upon them _this_
+1424 size: why, I should frighten them out of their wits!" So she began
+1425 nibbling at the right-hand bit again, and did not venture to go near the
+1426 house till she had brought herself down to nine inches high.
+1427 
+1428 
+1429 
+1430 
+1431 CHAPTER VI
+1432 
+1433 
+1434 [Sidenote: _Pig and Pepper_]
+1435 
+1436 FOR a minute or two she stood looking at the house, and
+1437 wondering what to do next, when suddenly a footman in livery came
+1438 running out of the wood--(she considered him to be a footman because he
+1439 was in livery: otherwise, judging by his face only, she would have
+1440 called him a fish)--and rapped loudly at the door with his knuckles. It
+1441 was opened by another footman in livery, with a round face and large
+1442 eyes like a frog; and both footmen, Alice noticed, had powdered hair
+1443 that curled all over their heads. She felt very curious to know what it
+1444 was all about, and crept a little way out of the wood to listen.
+1445 
+1446 The Fish-Footman began by producing from under his arm a great letter,
+1447 nearly as large as himself, and this he handed over to the other,
+1448 saying, in a solemn tone, "For the Duchess. An invitation from the
+1449 Queen to play croquet." The Frog-Footman repeated, in the same solemn
+1450 tone, only changing the order of the words a little, "From the Queen. An
+1451 invitation for the Duchess to play croquet."
+1452 
+1453 Then they both bowed low, and their curls got entangled together.
+1454 
+1455 Alice laughed so much at this, that she had to run back into the wood
+1456 for fear of their hearing her; and, when she next peeped out, the
+1457 Fish-Footman was gone, and the other was sitting on the ground near the
+1458 door, staring stupidly up into the sky.
+1459 
+1460 Alice went timidly up to the door and knocked.
+1461 
+1462 "There's no use in knocking," said the Footman, "and that for two
+1463 reasons. First, because I'm on the same side of the door as you are;
+1464 secondly, because they're making such a noise inside, no one could
+1465 possibly hear you." And certainly there was a most extraordinary noise
+1466 going on within--a constant howling and sneezing, and every now and then
+1467 a great crash, as if a dish or kettle had been broken to pieces.
+1468 
+1469 "Please, then," said Alice, "how am I to get in?"
+1470 
+1471 "There might be some sense in your knocking," the Footman went on
+1472 without attending to her, "if we had the door between us. For instance,
+1473 if you were _inside_, you might knock, and I could let you out, you
+1474 know." He was looking up into the sky all the time he was speaking, and
+1475 this Alice thought decidedly uncivil. "But perhaps he can't help it,"
+1476 she said to herself: "his eyes are so _very_ nearly at the top of his
+1477 head. But at any rate he might answer questions. How am I to get in?"
+1478 she repeated aloud.
+1479 
+1480 "I shall sit here," the Footman remarked, "till to-morrow----"
+1481 
+1482 At this moment the door of the house opened, and a large plate came
+1483 skimming out, straight at the Footman's head: it just grazed his nose,
+1484 and broke to pieces against one of the trees behind him.
+1485 
+1486 "----or next day, maybe," the Footman continued in the same tone,
+1487 exactly as if nothing had happened.
+1488 
+1489 "How am I to get in?" asked Alice again in a louder tone.
+1490 
+1491 "_Are_ you to get in at all?" said the Footman. "That's the first
+1492 question, you know."
+1493 
+1494 [Illustration]
+1495 
+1496 It was, no doubt: only Alice did not like to be told so. "It's really
+1497 dreadful," she muttered to herself, "the way all the creatures argue.
+1498 It's enough to drive one crazy!"
+1499 
+1500 The Footman seemed to consider this a good opportunity for repeating his
+1501 remark, with variations. "I shall sit here," he said, "on and off, for
+1502 days and days."
+1503 
+1504 "But what am _I_ to do?" said Alice.
+1505 
+1506 "Anything you like," said the Footman, and began whistling.
+1507 
+1508 "Oh, there's no use in talking to him," said Alice desperately: "he's
+1509 perfectly idiotic!" And she opened the door and went in.
+1510 
+1511 The door led right into a large kitchen, which was full of smoke from
+1512 one end to the other: the Duchess was sitting on a three-legged stool in
+1513 the middle, nursing a baby, the cook was leaning over the fire, stirring
+1514 a large cauldron which seemed to be full of soup.
+1515 
+1516 "There's certainly too much pepper in that soup!" Alice said to herself,
+1517 as well as she could for sneezing.
+1518 
+1519 There was certainly too much of it in the air. Even the Duchess sneezed
+1520 occasionally; and the baby was sneezing and howling alternately without
+1521 a moment's pause. The only things in the kitchen that did not sneeze,
+1522 were the cook, and a large cat which was sitting on the hearth and
+1523 grinning from ear to ear.
+1524 
+1525 "Please would you tell me," said Alice a little timidly, for she was not
+1526 quite sure whether it was good manners for her to speak first, "why your
+1527 cat grins like that?"
+1528 
+1529 "It's a Cheshire cat," said the Duchess, "and that's why. Pig!"
+1530 
+1531 She said the last word with such sudden violence that Alice quite
+1532 jumped; but she saw in another moment that it was addressed to the baby,
+1533 and not to her, so she took courage, and went on again:
+1534 
+1535 "I didn't know that Cheshire cats always grinned; in fact, I didn't know
+1536 that cats _could_ grin."
+1537 
+1538 "They all can," said the Duchess; "and most of 'em do."
+1539 
+1540 "I don't know of any that do," Alice said very politely, feeling quite
+1541 pleased to have got into a conversation.
+1542 
+1543 "You don't know much," said the Duchess; "and that's a fact."
+1544 
+1545 Alice did not at all like the tone of this remark, and thought it would
+1546 be as well to introduce some other subject of conversation. While she
+1547 was trying to fix on one, the cook took the cauldron of soup off the
+1548 fire, and at once set to work throwing everything within her reach at
+1549 the Duchess and the baby--the fire-irons came first; then followed a
+1550 shower of saucepans, plates, and dishes. The Duchess took no notice of
+1551 them even when they hit her; and the baby was howling so much already,
+1552 that it was quite impossible to say whether the blows hurt it or not.
+1553 
+1554 "Oh, _please_ mind what you're doing!" cried Alice, jumping up and down
+1555 in an agony of terror. "Oh, there goes his _precious_ nose"; as an
+1556 unusually large saucepan flew close by it, and very nearly carried it
+1557 off.
+1558 
+1559 "If everybody minded their own business," the Duchess said in a hoarse
+1560 growl, "the world would go round a deal faster than it does."
+1561 
+1562 [Illustration: _An unusually large saucepan flew close by it, and very
+1563 nearly carried it off_]
+1564 
+1565 "Which would _not_ be an advantage," said Alice, who felt very glad to
+1566 get an opportunity of showing off a little of her knowledge. "Just think
+1567 what work it would make with the day and night! You see the earth
+1568 takes twenty-four hours to turn round on its axis----"
+1569 
+1570 "Talking of axes," said the Duchess, "chop off her head."
+1571 
+1572 Alice glanced rather anxiously at the cook, to see if she meant to take
+1573 the hint; but the cook was busily engaged in stirring the soup, and did
+1574 not seem to be listening, so she ventured to go on again: "Twenty-four
+1575 hours, I _think_; or is it twelve? I----"
+1576 
+1577 "Oh, don't bother _me_," said the Duchess; "I never could abide
+1578 figures!" And with that she began nursing her child again, singing a
+1579 sort of lullaby to it as she did so, and giving it a violent shake at
+1580 the end of every line:
+1581 
+1582           "Speak roughly to your little boy,
+1583             And beat him when he sneezes:
+1584           He only does it to annoy,
+1585             Because he knows it teases."
+1586 
+1587 CHORUS
+1588 
+1589           (In which the cook and the baby joined):
+1590           "Wow! wow! wow!"
+1591 
+1592 While the Duchess sang the second verse of the song, she kept tossing
+1593 the baby violently up and down, and the poor little thing howled so,
+1594 that Alice could hardly hear the words:
+1595 
+1596           "I speak severely to my boy,
+1597             I beat him when he sneezes;
+1598           For he can thoroughly enjoy
+1599             The pepper when he pleases!"
+1600 
+1601           CHORUS.
+1602 
+1603           "Wow! wow! wow!"
+1604 
+1605 "Here! you may nurse it a bit if you like!" the Duchess said to Alice,
+1606 flinging the baby at her as she spoke. "I must go and get ready to play
+1607 croquet with the Queen," and she hurried out of the room. The cook threw
+1608 a frying-pan after her as she went out, but it just missed her.
+1609 
+1610 Alice caught the baby with some difficulty, as it was a queer-shaped
+1611 little creature, and held out its arms and legs in all directions, "just
+1612 like a star-fish," thought Alice. The poor little thing was snorting
+1613 like a steam-engine when she caught it, and kept doubling itself up and
+1614 straightening itself out again, so that altogether, for the first minute
+1615 or two, it was as much as she could do to hold it.
+1616 
+1617 As soon as she had made out the proper way of nursing it, (which was to
+1618 twist it up into a knot, and then keep tight hold of its right ear and
+1619 left foot, so as to prevent its undoing itself,) she carried it out into
+1620 the open air. "If I don't take this child away with me," thought Alice,
+1621 "they're sure to kill it in a day or two: wouldn't it be murder to leave
+1622 it behind?" She said the last words out loud, and the little thing
+1623 grunted in reply (it had left off sneezing by this time). "Don't grunt,"
+1624 said Alice; "that's not at all a proper way of expressing yourself."
+1625 
+1626 The baby grunted again, and Alice looked very anxiously into its face to
+1627 see what was the matter with it. There could be no doubt that it had a
+1628 _very_ turn-up nose, much more like a snout than a real nose; also its
+1629 eyes were getting extremely small for a baby: altogether Alice did not
+1630 like the look of the thing at all. "But perhaps it was only sobbing,"
+1631 she thought, and looked into its eyes again, to see if there were any
+1632 tears.
+1633 
+1634 No, there were no tears. "If you're going to turn into a pig, my dear,"
+1635 said Alice, seriously, "I'll have nothing more to do with you. Mind
+1636 now!" The poor little thing sobbed again (or grunted, it was impossible
+1637 to say which), and they went on for some while in silence.
+1638 
+1639 Alice was just beginning to think to herself, "Now, what am I to do with
+1640 this creature when I get it home?" when it grunted again, so violently,
+1641 that she looked down into its face in some alarm. This time there could
+1642 be _no_ mistake about it: it was neither more nor less than a pig, and
+1643 she felt that it would be quite absurd for her to carry it any further.
+1644 
+1645 So she set the little creature down, and felt quite relieved to see it
+1646 trot quietly away into the wood. "If it had grown up," she said to
+1647 herself, "it would have made a dreadfully ugly child: but it makes
+1648 rather a handsome pig, I think." And she began thinking over other
+1649 children she knew, who might do very well as pigs, and was just saying
+1650 to herself, "if one only knew the right way to change them----" when she
+1651 was a little startled by seeing the Cheshire Cat sitting on a bough of a
+1652 tree a few yards off.
+1653 
+1654 [Illustration: _It grunted again so violently that she looked down into
+1655 its face in some alarm_]
+1656 
+1657 The Cat only grinned when it saw Alice. It looked good-natured, she
+1658 thought: still it had _very_ long claws and a great many teeth, so she
+1659 felt that it ought to be treated with respect.
+1660 
+1661 [Illustration]
+1662 
+1663 "Cheshire Puss," she began, rather timidly, as she did not at all know
+1664 whether it would like the name: however, it only grinned a little wider.
+1665 "Come, it's pleased so far," thought Alice, and she went on. "Would you
+1666 tell me, please, which way I ought to go from here?"
+1667 
+1668 "That depends a good deal on where you want to get to," said the Cat.
+1669 
+1670 "I don't much care where----" said Alice.
+1671 
+1672 "Then it doesn't matter which way you go," said the Cat.
+1673 
+1674 "---- so long as I get _somewhere_," Alice added as an explanation.
+1675 
+1676 "Oh, you're sure to do that," said the Cat, "if you only walk long
+1677 enough."
+1678 
+1679 Alice felt that this could not be denied, so she tried another question.
+1680 "What sort of people live about here?"
+1681 
+1682 "In _that_ direction," the Cat said, waving its right paw round, "lives
+1683 a Hatter: and in _that_ direction," waving the other paw, "lives a March
+1684 Hare. Visit either you like: they're both mad."
+1685 
+1686 "But I don't want to go among mad people," Alice remarked.
+1687 
+1688 "Oh, you ca'n't help that," said the Cat: "we're all mad here. I'm mad.
+1689 You're mad."
+1690 
+1691 "How do you know I'm mad?" said Alice.
+1692 
+1693 "You must be," said the Cat, "or you wouldn't have come here."
+1694 
+1695 Alice didn't think that proved it at all; however, she went on. "And how
+1696 do you know that you're mad?"
+1697 
+1698 "To begin with," said the Cat, "a dog's not mad. You grant that?"
+1699 
+1700 "I suppose so," said Alice.
+1701 
+1702 "Well, then," the Cat went on, "you see a dog growls when it's angry,
+1703 and wags its tail when it's pleased. Now _I_ growl when I'm pleased, and
+1704 wag my tail when I'm angry. Therefore I'm mad."
+1705 
+1706 "_I_ call it purring, not growling," said Alice.
+1707 
+1708 "Call it what you like," said the Cat. "Do you play croquet with the
+1709 Queen to-day?"
+1710 
+1711 "I should like it very much," said Alice, "but I haven't been invited
+1712 yet."
+1713 
+1714 "You'll see me there," said the Cat and vanished.
+1715 
+1716 Alice was not much surprised at this, she was getting so used to queer
+1717 things happening. While she was looking at the place where it had been,
+1718 it suddenly appeared again.
+1719 
+1720 "By-the-bye, what became of the baby?" said the Cat. "I'd nearly
+1721 forgotten to ask."
+1722 
+1723 "It turned into a pig," Alice quietly said, just as if it had come back
+1724 in a natural way.
+1725 
+1726 "I thought it would," said the Cat, and vanished again.
+1727 
+1728 Alice waited a little, half expecting to see it again, but it did not
+1729 appear, and after a minute or two she walked on in the direction in
+1730 which the March Hare was said to live. "I've seen hatters before," she
+1731 said to herself; "the March Hare will be much the most interesting, and
+1732 perhaps as this is May, it won't be raving mad--at least not so mad as
+1733 it was in March." As she said this, she looked up, and there was the Cat
+1734 again, sitting on the branch of a tree.
+1735 
+1736 "Did you say pig, or fig?" said the Cat.
+1737 
+1738 "I said pig," replied Alice; "and I wish you wouldn't keep appearing and
+1739 vanishing so suddenly: you make one quite giddy."
+1740 
+1741 "All right," said the Cat; and this time it vanished quite slowly,
+1742 beginning with the end of the tail, and ending with the grin, which
+1743 remained some time after the rest of it had gone.
+1744 
+1745 "Well! I've often seen a cat without a grin," thought Alice; "but a grin
+1746 without a cat! It's the most curious thing I ever saw in all my life."
+1747 
+1748 [Illustration]
+1749 
+1750 She had not gone much farther before she came in sight of the house of
+1751 the March Hare: she thought it must be the right house, because the
+1752 chimneys were shaped like ears and the roof was thatched with fur. It
+1753 was so large a house, that she did not like to go nearer till she had
+1754 nibbled some more of the left-hand bit of mushroom, and raised herself,
+1755 to about two feet high: even then she walked up towards it rather
+1756 timidly, saying to herself, "Suppose it should be raving mad after all!
+1757 I almost wish I'd gone to see the Hatter instead!"
+1758 
+1759 
+1760 
+1761 
+1762 CHAPTER VII
+1763 
+1764 
+1765 [Sidenote: _A Mad Tea-party_]
+1766 
+1767 THERE was a table set out under a tree in front of the
+1768 house, and the March Hare and the Hatter were having tea at it: a
+1769 Dormouse was sitting between them, fast asleep, and the other two were
+1770 using it as a cushion resting their elbows on it, and talking over its
+1771 head. "Very uncomfortable for the Dormouse," thought Alice; "only as
+1772 it's asleep, suppose it doesn't mind."
+1773 
+1774 The table was a large one, but the three were all crowded together at
+1775 one corner of it. "No room! No room!" they cried out when they saw Alice
+1776 coming. "There's _plenty_ of room!" said Alice indignantly, and she sat
+1777 down in a large arm-chair at one end of the table.
+1778 
+1779 "Have some wine," the March Hare said in an encouraging tone.
+1780 
+1781 Alice looked all round the table, but there was nothing on it but tea.
+1782 "I don't see any wine," she remarked.
+1783 
+1784 "There isn't any," said the March Hare.
+1785 
+1786 "Then it wasn't very civil of you to offer it," said Alice angrily.
+1787 
+1788 "It wasn't very civil of you to sit down without being invited," said
+1789 the March Hare.
+1790 
+1791 "I didn't know it was _your_ table," said Alice; "it's laid for a great
+1792 many more than three."
+1793 
+1794 "Your hair wants cutting," said the Hatter. He had been looking at Alice
+1795 for some time with great curiosity, and this was his first speech.
+1796 
+1797 "You should learn not to make personal remarks," Alice said with some
+1798 severity; "it's very rude."
+1799 
+1800 The Hatter opened his eyes very wide on hearing this; but all he _said_
+1801 was "Why is a raven like a writing-desk?"
+1802 
+1803 "Come, we shall have some fun now!" thought Alice. "I'm glad they've
+1804 begun asking riddles.--I believe I can guess that," she added aloud.
+1805 
+1806 "Do you mean that you think you can find out the answer to it?" said
+1807 the March Hare.
+1808 
+1809 "Exactly so," said Alice.
+1810 
+1811 "Then you should say what you mean," the March Hare went on.
+1812 
+1813 "I do," Alice hastily replied; "at least--at least I mean what I
+1814 say--that's the same thing, you know."
+1815 
+1816 "Not the same thing a bit!" said the Hatter. "Why, you might just as
+1817 well say that 'I see what I eat' is the same thing as 'I eat what I
+1818 see'!"
+1819 
+1820 "You might just as well say," added the March Hare, "that 'I like what I
+1821 get' is the same thing as 'I get what I like'!"
+1822 
+1823 "You might just as well say," added the Dormouse, which seemed to be
+1824 talking in his sleep, "that 'I breathe when I sleep' is the same thing
+1825 as 'I sleep when I breathe'!"
+1826 
+1827 "It _is_ the same thing with you," said the Hatter; and here the
+1828 conversation dropped, and the party sat silent for a minute, while Alice
+1829 thought over all she could remember about ravens and writing-desks,
+1830 which wasn't much.
+1831 
+1832 [Illustration: _A Mad Tea Party_]
+1833 
+1834 The Hatter was the first to break the silence. "What day of the month
+1835 is it?" he said, turning to Alice: he had taken his watch out of his
+1836 pocket, and was looking at it uneasily, shaking it every now and then,
+1837 and holding it to his ear.
+1838 
+1839 Alice considered a little, and then said "The fourth."
+1840 
+1841 "Two days wrong!" sighed the Hatter. "I told you butter would not suit
+1842 the works!" he added, looking angrily at the March Hare.
+1843 
+1844 "It was the _best_ butter," the March Hare meekly replied.
+1845 
+1846 "Yes, but some crumbs must have got in as well," the Hatter grumbled:
+1847 "you shouldn't have put it in with the bread-knife."
+1848 
+1849 The March Hare took the watch and looked at it gloomily: then he dipped
+1850 it into his cup of tea, and looked at it again: but he could think of
+1851 nothing better to say than his first remark, "It was the _best_ butter,
+1852 you know."
+1853 
+1854 Alice had been looking over his shoulder with some curiosity. "What a
+1855 funny watch!" she remarked. "It tells the day of the month, and doesn't
+1856 tell what o'clock it is!"
+1857 
+1858 "Why should it?" muttered the Hatter. "Does _your_ watch tell you what
+1859 year it is?"
+1860 
+1861 "Of course not," Alice replied very readily: "but that's because it
+1862 stays the same year for such a long time together."
+1863 
+1864 "Which is just the case with _mine_," said the Hatter.
+1865 
+1866 Alice felt dreadfully puzzled. The Hatter's remark seemed to have no
+1867 meaning in it, and yet it was certainly English. "I don't quite
+1868 understand," she said, as politely as she could.
+1869 
+1870 "The Dormouse is asleep again," said the Hatter, and he poured a little
+1871 hot tea upon its nose.
+1872 
+1873 The Dormouse shook its head impatiently, and said, without opening its
+1874 eyes, "Of course, of course; just what I was going to remark myself."
+1875 
+1876 "Have you guessed the riddle yet?" the Hatter said, turning to Alice
+1877 again.
+1878 
+1879 "No, I give it up," Alice replied: "what's the answer?"
+1880 
+1881 "I haven't the slightest idea," said the Hatter.
+1882 
+1883 "Nor I," said the March Hare.
+1884 
+1885 Alice sighed wearily. "I think you might do something better with the
+1886 time," she said, "than wasting it asking riddles with no answers."
+1887 
+1888 "If you knew Time as well as I do," said the Hatter, "you wouldn't talk
+1889 about wasting _it_. It's _him_."
+1890 
+1891 "I don't know what you mean," said Alice.
+1892 
+1893 "Of course you don't!" the Hatter said, tossing his head contemptuously.
+1894 "I daresay you never spoke to Time!"
+1895 
+1896 "Perhaps not," Alice cautiously replied: "but I know I have to beat time
+1897 when I learn music."
+1898 
+1899 "Ah! that accounts for it," said the Hatter. "He won't stand beating.
+1900 Now, if you only kept on good terms with him, he'd do almost anything
+1901 you liked with the clock. For instance, suppose it were nine o'clock in
+1902 the morning, just time to begin lessons: you'd only have to whisper a
+1903 hint to Time, and round goes the clock in a twinkling! Half-past one,
+1904 time for dinner!"
+1905 
+1906 ("I only wish it was," the March Hare said to itself in a whisper.)
+1907 
+1908 "That would be grand, certainly," said Alice thoughtfully: "but then--I
+1909 shouldn't be hungry for it, you know."
+1910 
+1911 "Not at first, perhaps," said the Hatter: "but you could keep it to
+1912 half-past one as long as you liked."
+1913 
+1914 "Is that the way _you_ manage?" Alice asked.
+1915 
+1916 The Hatter shook his head mournfully. "Not I!" he replied. "We
+1917 quarrelled last March----just before _he_ went mad, you know----"
+1918 (pointing with his teaspoon to the March Hare), "it was at the great
+1919 concert given by the Queen of Hearts, and I had to sing
+1920 
+1921           'Twinkle, twinkle, little bat!
+1922           How I wonder what you're at!'
+1923 
+1924 You know that song, perhaps?"
+1925 
+1926 "I've heard something like it," said Alice.
+1927 
+1928 "It goes on, you know," the Hatter continued, "in this way:--
+1929 
+1930           'Up above the world you fly,
+1931           Like a tea-tray in the sky.
+1932                       Twinkle, twinkle----'"
+1933 
+1934 Here the Dormouse shook itself, and began singing in its sleep
+1935 "_Twinkle, twinkle, twinkle, twinkle_----" and went on so long that they
+1936 had to pinch it to make it stop.
+1937 
+1938 "Well, I'd hardly finished the first verse," said the Hatter, "when the
+1939 Queen jumped up and bawled out 'He's murdering the time! Off with his
+1940 head!'"
+1941 
+1942 "How dreadfully savage!" exclaimed Alice.
+1943 
+1944 "And ever since that," the Hatter went on in a mournful tone, "he won't
+1945 do a thing I ask! It's always six o'clock now."
+1946 
+1947 A bright idea came into Alice's head. "Is that the reason so many
+1948 tea-things are put out here?" she asked.
+1949 
+1950 "Yes, that's it," said the Hatter with a sigh: "it's always tea-time,
+1951 and we've no time to wash the things between whiles."
+1952 
+1953 "Then you keep moving round, I suppose?" said Alice.
+1954 
+1955 "Exactly so," said the Hatter: "as the things get used up."
+1956 
+1957 "But what happens when you come to the beginning again?" Alice ventured
+1958 to ask.
+1959 
+1960 "Suppose we change the subject," the March Hare interrupted, yawning.
+1961 "I'm getting tired of this. I vote the young lady tells us a story."
+1962 
+1963 "I'm afraid I don't know one," said Alice, rather alarmed at the
+1964 proposal.
+1965 
+1966 "Then the Dormouse shall!" they both cried. "Wake up, Dormouse!" And
+1967 they pinched it on both sides at once.
+1968 
+1969 The Dormouse slowly opened his eyes. "I wasn't asleep," he said in a
+1970 hoarse, feeble voice: "I heard every word you fellows were saying."
+1971 
+1972 "Tell us a story!" said the March Hare.
+1973 
+1974 "Yes, please do!" pleaded Alice.
+1975 
+1976 "And be quick about it," added the Hatter, "or you'll be asleep again
+1977 before it's done."
+1978 
+1979 "Once upon a time there were three little sisters," the Dormouse began
+1980 in a great hurry; "and their names were Elsie, Lacie, and Tillie; and
+1981 they lived at the bottom of a well----"
+1982 
+1983 "What did they live on?" said Alice, who always took a great interest in
+1984 questions of eating and drinking.
+1985 
+1986 "They lived on treacle," said the Dormouse, after thinking a minute or
+1987 two.
+1988 
+1989 "They couldn't have done that, you know," Alice gently remarked; "they'd
+1990 have been ill."
+1991 
+1992 "So they were," said the Dormouse; "_very_ ill."
+1993 
+1994 Alice tried a little to fancy to herself what such an extraordinary way
+1995 of living would be like, but it puzzled her too much, so she went on:
+1996 "But why did they live at the bottom of a well?"
+1997 
+1998 "Take some more tea," the March Hare said to Alice, very earnestly.
+1999 
+2000 "I've had nothing yet," Alice replied in an offended tone, "so I can't
+2001 take more."
+2002 
+2003 "You mean you can't take _less_," said the Hatter; "it's very easy to
+2004 take _more_ than nothing."
+2005 
+2006 "Nobody asked _your_ opinion," said Alice.
+2007 
+2008 "Who's making personal remarks now?" the Hatter asked triumphantly.
+2009 
+2010 Alice did not quite know what to say to this: so she helped herself to
+2011 some tea and bread-and-butter, and then turned to the Dormouse, and
+2012 repeated her question. "Why did they live at the bottom of a well?"
+2013 
+2014 The Dormouse again took a minute or two to think about it, and then
+2015 said, "It was a treacle-well."
+2016 
+2017 "There's no such thing!" Alice was beginning very angrily, but the
+2018 Hatter and the March Hare went "Sh! sh!" and the Dormouse sulkily
+2019 remarked: "If you can't be civil, you'd better finish the story for
+2020 yourself."
+2021 
+2022 "No, please go on!" Alice said very humbly. "I won't interrupt you
+2023 again. I dare say there may be _one_."
+2024 
+2025 "One, indeed!" said the Dormouse indignantly. However, he consented to
+2026 go on. "And so these three little sisters--they were learning to draw,
+2027 you know----"
+2028 
+2029 "What did they draw?" said Alice, quite forgetting her promise.
+2030 
+2031 "Treacle," said the Dormouse, without considering at all this time.
+2032 
+2033 "I want a clean cup," interrupted the Hatter: "let's all move one place
+2034 on."
+2035 
+2036 He moved as he spoke, and the Dormouse followed him: the March Hare
+2037 moved into the Dormouse's place, and Alice rather unwillingly took the
+2038 place of the March Hare. The Hatter was the only one who got any
+2039 advantage from the change: and Alice was a good deal worse off than
+2040 before, as the March Hare had just upset the milk-jug into his plate.
+2041 
+2042 Alice did not wish to offend the Dormouse again, so she began very
+2043 cautiously: "But I don't understand. Where did they draw the treacle
+2044 from?"
+2045 
+2046 "You can draw water out of a water-well," said the Hatter; "so I should
+2047 think you could draw treacle out of a treacle-well--eh, stupid!"
+2048 
+2049 "But they were _in_ the well," Alice said to the Dormouse, not choosing
+2050 to notice this last remark.
+2051 
+2052 "Of course they were," said the Dormouse; "----well in."
+2053 
+2054 This answer so confused poor Alice that she let the Dormouse go on for
+2055 some time without interrupting it.
+2056 
+2057 "They were learning to draw," the Dormouse went on, yawning and rubbing
+2058 its eyes, for it was getting very sleepy; "and they drew all manner of
+2059 things--everything that begins with an M----"
+2060 
+2061 "Why with an M?" said Alice.
+2062 
+2063 "Why not?" said the March Hare.
+2064 
+2065 Alice was silent.
+2066 
+2067 The Dormouse had closed its eyes by this time, and was going off into a
+2068 dose; but, on being pinched by the Hatter, it woke up again with a
+2069 little shriek, and went on: "----that begins with an M, such as
+2070 mouse-traps, and the moon, and memory, and muchness--you know you say
+2071 things are 'much of a muchness'--did you ever see such a thing as a
+2072 drawing of a muchness?"
+2073 
+2074 "Really, now you ask me," said Alice, very much confused, "I don't
+2075 think----"
+2076 
+2077 "Then you shouldn't talk," said the Hatter.
+2078 
+2079 This piece of rudeness was more than Alice could bear: she got up in
+2080 great disgust and walked off; the Dormouse fell asleep instantly, and
+2081 neither of the others took the least notice of her going, though she
+2082 looked back once or twice, half hoping that they would call after her:
+2083 the last time she saw them, they were trying to put the Dormouse into
+2084 the teapot.
+2085 
+2086 "At any rate I'll never go _there_ again!" said Alice as she picked her
+2087 way through the wood. "It's the stupidest tea-party I ever was at in all
+2088 my life!"
+2089 
+2090 Just as she said this, she noticed that one of the trees had a door
+2091 leading right into it. "That's very curious!" she thought. "But
+2092 everything's curious to-day. I think I may as well go in at once." And
+2093 in she went.
+2094 
+2095 Once more she found herself in the long hall, and close to the little
+2096 glass table. "Now I'll manage better this time," she said to herself,
+2097 and began by taking the little golden key, and unlocking the door that
+2098 led into the garden. Then she set to work nibbling at the mushroom (she
+2099 had kept a piece of it in her pocket) till she was about a foot high:
+2100 then she walked down the little passage: and _then_--she found herself
+2101 at last in the beautiful garden, among the bright flower-beds and the
+2102 cool fountains.
+2103 
+2104 
+2105 
+2106 
+2107 CHAPTER VIII
+2108 
+2109 
+2110 [Sidenote: _The Queen's Croquet-Ground_]
+2111 
+2112 A LARGE rose-tree stood near the entrance of the garden:
+2113 the roses growing on it were white, but there were three gardeners at
+2114 it, busily painting them red. Alice thought this a very curious thing,
+2115 and she went nearer to watch them, and just as she came up to them she
+2116 heard one of them say "Look out now, Five! Don't go splashing paint over
+2117 me like that!"
+2118 
+2119 "I couldn't help it," said Five, in a sulky tone. "Seven jogged my
+2120 elbow."
+2121 
+2122 On which Seven looked up and said, "That's right, Five! Always lay the
+2123 blame on others!"
+2124 
+2125 "_You'd_ better not talk!" said Five. "I heard the Queen say only
+2126 yesterday you deserved to be beheaded!"
+2127 
+2128 "What for?" said the one who had first spoken.
+2129 
+2130 "That's none of _your_ business, Two!" said Seven.
+2131 
+2132 "Yes, it _is_ his business!" said Five. "And I'll tell him--it was for
+2133 bringing the cook tulip-roots instead of onions."
+2134 
+2135 Seven flung down his brush, and had just begun "Well, of all the unjust
+2136 things----" when his eye chanced to fall upon Alice, as she stood
+2137 watching them, and he checked himself suddenly: the others looked round
+2138 also, and all of them bowed low.
+2139 
+2140 "Would you tell me," said Alice, a little timidly, "why you are painting
+2141 those roses?"
+2142 
+2143 Five and Seven said nothing, but looked at Two. Two began in a low
+2144 voice, "Why, the fact is, you see, Miss, this here ought to have been a
+2145 _red_ rose-tree, and we put a white one in by mistake; and if the Queen
+2146 was to find it out, we should all have our heads cut off, you know. So
+2147 you see, Miss, we're doing our best, afore she comes, to----" At this
+2148 moment, Five, who had been anxiously looking across the garden, called
+2149 out "The Queen! The Queen!" and the three gardeners instantly threw
+2150 themselves flat upon their faces. There was a sound of many footsteps,
+2151 and Alice looked round, eager to see the Queen.
+2152 
+2153 First came ten soldiers carrying clubs; these were all shaped like the
+2154 three gardeners, oblong and flat, with their hands and feet at the
+2155 corners: next the ten courtiers; these were ornamented all over with
+2156 diamonds, and walked two and two, as the soldiers did. After these came
+2157 the royal children; there were ten of them, and the little dears came
+2158 jumping merrily along hand in hand, in couples; they were all ornamented
+2159 with hearts. Next came the guests, mostly Kings and Queens, and among
+2160 them Alice recognised the White Rabbit: it was talking in a hurried,
+2161 nervous manner, smiling at everything that was said, and went by without
+2162 noticing her. Then followed the Knave of Hearts, carrying the King's
+2163 crown on a crimson velvet cushion; and last of all this grand
+2164 procession, came THE KING AND QUEEN OF HEARTS.
+2165 
+2166 Alice was rather doubtful whether she ought not to lie down on her face
+2167 like the three gardeners, but she could not remember ever having heard
+2168 of such a rule at processions; "and besides, what would be the use of a
+2169 procession," thought she, "if people had to lie down upon their faces,
+2170 so that they couldn't see it?" So she stood still where she was, and
+2171 waited.
+2172 
+2173 When the procession came opposite to Alice, they all stopped and looked
+2174 at her, and the Queen said severely, "Who is this?" She said it to the
+2175 Knave of Hearts, who only bowed and smiled in reply.
+2176 
+2177 "Idiot!" said the Queen, tossing her head impatiently; and turning to
+2178 Alice, she went on, "What's your name, child?"
+2179 
+2180 "My name is Alice, so please your Majesty," said Alice very politely;
+2181 but she added, to herself, "Why, they're only a pack of cards, after
+2182 all. I needn't be afraid of them!"
+2183 
+2184 "And who are _these_?" said the Queen, pointing to the three gardeners
+2185 who were lying round the rose-tree; for, you see, as they were lying on
+2186 their faces, and the pattern on their backs was the same as the rest of
+2187 the pack, she could not tell whether they were gardeners, or soldiers,
+2188 or courtiers, or three of her own children.
+2189 
+2190 "How should _I_ know?" said Alice, surprised at her own courage. "It's
+2191 no business of _mine_."
+2192 
+2193 The Queen turned crimson with fury, and, after glaring at her for a
+2194 moment like a wild beast, screamed "Off with her head! Off----"
+2195 
+2196 "Nonsense!" said Alice, very loudly and decidedly, and the Queen was
+2197 silent.
+2198 
+2199 The King laid his hand upon her arm, and timidly said "Consider my dear:
+2200 she is only a child!"
+2201 
+2202 The Queen turned angrily away from him, and said to the Knave "Turn them
+2203 over!"
+2204 
+2205 The Knave did so, very carefully, with one foot.
+2206 
+2207 "Get up!" said the Queen, in a shrill, loud voice, and the three
+2208 gardeners instantly jumped up, and began bowing to the King, the Queen,
+2209 the royal children, and everybody else.
+2210 
+2211 "Leave off that!" screamed the Queen. "You make me giddy." And then,
+2212 turning to the rose-tree, she went on, "What _have_ you been doing
+2213 here?"
+2214 
+2215 "May it please your Majesty," said Two, in a very humble tone, going
+2216 down on one knee as he spoke, "we were trying----"
+2217 
+2218 [Illustration: _The Queen turned angrily away from him and said to the
+2219 Knave, "Turn them over"_]
+2220 
+2221 "_I_ see!" said the Queen, who had meanwhile been examining the roses.
+2222 "Off with their heads!" and the procession moved on, three of the
+2223 soldiers remaining behind to execute the unfortunate gardeners, who ran
+2224 to Alice for protection.
+2225 
+2226 "You shan't be beheaded!" said Alice, and she put them into a large
+2227 flower-pot that stood near. The three soldiers wandered about for a
+2228 minute or two, looking for them, and then quietly marched off after the
+2229 others.
+2230 
+2231 "Are their heads off?" shouted the Queen.
+2232 
+2233 "Their heads are gone, if it please your Majesty!" the soldiers shouted
+2234 in reply.
+2235 
+2236 "That's right!" shouted the Queen. "Can you play croquet?"
+2237 
+2238 The soldiers were silent, and looked at Alice, as the question was
+2239 evidently meant for her.
+2240 
+2241 "Yes!" shouted Alice.
+2242 
+2243 "Come on, then!" roared the Queen, and Alice joined the procession,
+2244 wondering very much what would happen next.
+2245 
+2246 "It's--it's a very fine day!" said a timid voice at her side. She was
+2247 walking by the White Rabbit, who was peeping anxiously into her face.
+2248 
+2249 "Very," said Alice: "----where's the Duchess?"
+2250 
+2251 "Hush! Hush!" said the Rabbit in a low hurried tone. He looked anxiously
+2252 over his shoulder as he spoke, and then raised himself upon tiptoe, put
+2253 his mouth close to her ear, and whispered "She's under sentence of
+2254 execution."
+2255 
+2256 "What for?" said Alice.
+2257 
+2258 "Did you say 'What a pity!'?" the Rabbit asked.
+2259 
+2260 "No, I didn't," said Alice: "I don't think it's at all a pity. I said
+2261 'What for?'"
+2262 
+2263 "She boxed the Queen's ears--" the Rabbit began. Alice gave a little
+2264 scream of laughter. "Oh, hush!" the Rabbit whispered in a frightened
+2265 tone. "The Queen will hear you! You see she came rather late, and the
+2266 Queen said----"
+2267 
+2268 "Get to your places!" shouted the Queen in a voice of thunder, and
+2269 people began running about in all directions, tumbling up against each
+2270 other; however, they got settled down in a minute or two, and the game
+2271 began. Alice thought she had never seen such a curious croquet-ground in
+2272 all her life; it was all ridges and furrows; the balls were live
+2273 hedgehogs, the mallets live flamingoes, and the soldiers had to double
+2274 themselves up and to stand upon their hands and feet, to make the
+2275 arches.
+2276 
+2277 [Illustration]
+2278 
+2279 The chief difficulty Alice found at first was in managing her flamingo;
+2280 she succeeded in getting its body tucked away, comfortably enough, under
+2281 her arm, with its legs hanging down, but generally, just as she had got
+2282 its neck nicely straightened out, and was going to give the hedgehog a
+2283 blow with its head, it _would_ twist itself round and look up in her
+2284 face, with such a puzzled expression that she could not help bursting
+2285 out laughing: and when she had got its head down, and was going to
+2286 begin again, it was very provoking to find that the hedgehog had
+2287 unrolled itself and was in the act of crawling away: besides all this,
+2288 there was generally a ridge or a furrow in the way wherever she wanted
+2289 to send the hedgehog to, and, as the doubled-up soldiers were always
+2290 getting up and walking off to other parts of the ground, Alice soon came
+2291 to the conclusion that it was a very difficult game indeed.
+2292 
+2293 The players all played at once without waiting for turns, quarrelling
+2294 all the while, and fighting for the hedgehogs; and in a very short time
+2295 the Queen was in a furious passion, and went stamping about, and
+2296 shouting "Off with his head!" or "Off with her head!" about once in a
+2297 minute.
+2298 
+2299 Alice began to feel very uneasy: to be sure she had not as yet had any
+2300 dispute with the Queen, but she knew that it might happen any minute,
+2301 "and then," thought she, "what would become of me? They're dreadfully
+2302 fond of beheading people here: the great wonder is that there's any one
+2303 left alive!"
+2304 
+2305 She was looking about for some way of escape, and wondering whether she
+2306 could get away without being seen, when she noticed a curious
+2307 appearance in the air: it puzzled her very much at first, but, after
+2308 watching it a minute or two, she made it out to be a grin, and she said
+2309 to herself "It's the Cheshire Cat: now I shall have somebody to talk
+2310 to."
+2311 
+2312 "How are you getting on?" said the Cat, as soon as there was mouth
+2313 enough for it to speak with.
+2314 
+2315 Alice waited till the eyes appeared, and then nodded. "It's no use
+2316 speaking to it," she thought, "till its ears have come, or at least one
+2317 of them." In another minute the whole head appeared, and then Alice put
+2318 down her flamingo, and began an account of the game, feeling very glad
+2319 she had some one to listen to her. The Cat seemed to think that there
+2320 was enough of it now in sight, and no more of it appeared.
+2321 
+2322 "I don't think they play at all fairly," Alice began, in rather a
+2323 complaining tone, "and they all quarrel so dreadfully one can't hear
+2324 oneself speak--and they don't seem to have any rules in particular; at
+2325 least, if there are, nobody attends to them--and you've no idea how
+2326 confusing it is all the things being alive; for instance, there's the
+2327 arch I've got to go through next walking about at the other end of the
+2328 ground--and I should have croqueted the Queen's hedgehog just now, only
+2329 it ran away when it saw mine coming!"
+2330 
+2331 [Illustration]
+2332 
+2333 "How do you like the Queen?" said the Cat in a low voice.
+2334 
+2335 "Not at all," said Alice: "she's so extremely----" Just then she noticed
+2336 that the Queen was close behind her listening: so she went on,
+2337 "----likely to win, that it's hardly worth while finishing the game."
+2338 
+2339 The Queen smiled and passed on.
+2340 
+2341 "Who _are_ you talking to?" said the King, coming up to Alice, and
+2342 looking at the Cat's head with great curiosity.
+2343 
+2344 "It's a friend of mine--a Cheshire Cat," said Alice: "allow me to
+2345 introduce it."
+2346 
+2347 "I don't like the look of it at all," said the King: "however, it may
+2348 kiss my hand if it likes."
+2349 
+2350 "I'd rather not," the Cat remarked.
+2351 
+2352 "Don't be impertinent," said the King, "and don't look at me like that!"
+2353 He got behind Alice as he spoke.
+2354 
+2355 "A cat may look at a king," said Alice. "I've read that in some book,
+2356 but I don't remember where."
+2357 
+2358 "Well, it must be removed," said the King very decidedly, and he called
+2359 to the Queen, who was passing at the moment, "My dear! I wish you would
+2360 have this cat removed!"
+2361 
+2362 The Queen had only one way of settling all difficulties, great or small.
+2363 "Off with his head!" she said, without even looking round.
+2364 
+2365 "I'll fetch the executioner myself," said the King eagerly, and he
+2366 hurried off.
+2367 
+2368 Alice thought she might as well go back and see how the game was going
+2369 on, as she heard the Queen's voice in the distance, screaming with
+2370 passion. She had already heard her sentence three of the players to be
+2371 executed for having missed their turns, and she did not like the look of
+2372 things at all, as the game was in such confusion that she never knew
+2373 whether it was her turn or not. So she went in search of her hedgehog.
+2374 
+2375 The hedgehog was engaged in a fight with another hedgehog, which seemed
+2376 to Alice an excellent opportunity for croqueting one of them with the
+2377 other: the only difficulty was, that her flamingo was gone across to the
+2378 other side of the garden, where Alice could see it trying in a helpless
+2379 sort of way to fly up into one of the trees.
+2380 
+2381 By the time she had caught the flamingo and brought it back, the fight
+2382 was over, and both the hedgehogs were out of sight: "but it doesn't
+2383 matter much," thought Alice, "as all the arches are gone from this side
+2384 of the ground." So she tucked it under her arm, that it might not escape
+2385 again, and went back for a little more conversation with her friend.
+2386 
+2387 When she got back to the Cheshire Cat, she was surprised to find quite a
+2388 large crowd collected round it: there was a dispute going on between the
+2389 executioner, the King, and the Queen, who were all talking at once,
+2390 while all the rest were quite silent, and looked very uncomfortable.
+2391 
+2392 The moment Alice appeared, she was appealed to by all three to settle
+2393 the question, and they repeated their arguments to her, though, as they
+2394 all spoke at once, she found it very hard indeed to make out exactly
+2395 what they said.
+2396 
+2397 [Illustration]
+2398 
+2399 The executioner's argument was, that you couldn't cut off a head unless
+2400 there was a body to cut it off from: that he had never had to do such a
+2401 thing before, and he wasn't going to begin at _his_ time of life.
+2402 
+2403 The King's argument was, that anything that had a head could be
+2404 beheaded, and that you weren't to talk nonsense.
+2405 
+2406 The Queen's argument was, that if something wasn't done about it in less
+2407 than no time, she'd have everybody executed all round. (It was this last
+2408 remark that had made the whole party look so grave and anxious.)
+2409 
+2410 Alice could think of nothing else to say but "It belongs to the Duchess:
+2411 you'd better ask _her_ about it."
+2412 
+2413 "She's in prison," the Queen said to the executioner; "fetch her here."
+2414 And the executioner went off like an arrow.
+2415 
+2416 The Cat's head began fading away the moment he was gone, and by the time
+2417 he had come back with the Duchess, it had entirely disappeared; so the
+2418 King and the executioner ran wildly up and down looking for it, while
+2419 the rest of the party went back to the game.
+2420 
+2421 
+2422 
+2423 
+2424 CHAPTER IX
+2425 
+2426 
+2427 [Sidenote: _The Mock Turtle's Story_]
+2428 
+2429 "YOU can't think how glad I am to see you again, you
+2430 dear old thing!" said the Duchess, as she tucked her arm affectionately
+2431 into Alice's, and they walked off together.
+2432 
+2433 Alice was very glad to find her in such a pleasant temper, and thought
+2434 to herself that perhaps it was only the pepper that had made her so
+2435 savage when they met in the kitchen.
+2436 
+2437 "When _I'm_ a Duchess," she said to herself (not in a very hopeful tone
+2438 though), "I won't have any pepper in my kitchen _at all_. Soup does very
+2439 well without--Maybe it's always pepper that makes people hot-tempered,"
+2440 she went on, very much pleased at having found out a new kind of rule,
+2441 "and vinegar that makes them sour--and camomile that makes them
+2442 bitter--and--barley-sugar and such things that make children
+2443 sweet-tempered. I only wish people knew _that_: then they wouldn't be
+2444 so stingy about it, you know----"
+2445 
+2446 She had quite forgotten the Duchess by this time, and was a little
+2447 startled when she heard her voice close to her ear. "You're thinking
+2448 about something, my dear, and that makes you forget to talk. I can't
+2449 tell you just now what the moral of that is, but I shall remember it in
+2450 a bit."
+2451 
+2452 "Perhaps it hasn't one," Alice ventured to remark.
+2453 
+2454 "Tut, tut, child!" said the Duchess. "Every thing's got a moral, if only
+2455 you can find it." And she squeezed herself up closer to Alice's side as
+2456 she spoke.
+2457 
+2458 Alice did not much like her keeping so close to her: first, because the
+2459 Duchess was _very_ ugly; and secondly, because she was exactly the right
+2460 height to rest her chin on Alice's shoulder, and it was an uncomfortably
+2461 sharp chin. However, she did not like to be rude, so she bore it as well
+2462 as she could. "The game's going on rather better now," she said, by way
+2463 of keeping up the conversation a little.
+2464 
+2465 "'Tis so," said the Duchess: "and the moral of that is--'Oh, 'tis love,
+2466 'tis love, that makes the world go round!'"
+2467 
+2468 "Somebody said," Alice whispered, "that it's done by everybody minding
+2469 their own business!"
+2470 
+2471 "Ah, well! It means much the same thing," said the Duchess, digging her
+2472 sharp little chin into Alice's shoulder as she added, "and the moral of
+2473 _that_ is--'Take care of the sense, and the sounds will take care of
+2474 themselves.'"
+2475 
+2476 "How fond she is of finding morals in things!" Alice thought to herself.
+2477 
+2478 "I dare say you're wondering why I don't put my arm round your waist,"
+2479 the Duchess said after a pause: "the reason is, that I'm doubtful about
+2480 the temper of your flamingo. Shall I try the experiment?"
+2481 
+2482 "He might bite," Alice cautiously replied, not feeling at all anxious to
+2483 have the experiment tried.
+2484 
+2485 "Very true," said the Duchess: "flamingoes and mustard both bite. And
+2486 the moral of that is--'Birds of a feather flock together.'"
+2487 
+2488 "Only mustard isn't a bird," Alice remarked.
+2489 
+2490 "Right, as usual," said the Duchess: "what a clear way you have of
+2491 putting things!"
+2492 
+2493 "It's a mineral, I _think_," said Alice.
+2494 
+2495 "Of course it is," said the Duchess, who seemed ready to agree to
+2496 everything that Alice said: "there's a large mustard-mine near here. And
+2497 the moral of that is--'The more there is of mine, the less there is of
+2498 yours.'"
+2499 
+2500 "Oh, I know!" exclaimed Alice, who had not attended to this last remark.
+2501 "It's a vegetable. It doesn't look like one, but it is."
+2502 
+2503 "I quite agree with you," said the Duchess; "and the moral of that
+2504 is--'Be what you would seem to be'--or if you'd like it put more
+2505 simply--'Never imagine yourself not to be otherwise than what it might
+2506 appear to others that what you were or might have been was not otherwise
+2507 than what you had been would have appeared to them to be otherwise.'"
+2508 
+2509 "I think I should understand that better," Alice said very politely, "if
+2510 I had it written down: but I can't quite follow it as you say it."
+2511 
+2512 "That's nothing to what I could say if I chose," the Duchess replied, in
+2513 a pleased tone.
+2514 
+2515 "Pray don't trouble yourself to say it any longer than that," said
+2516 Alice.
+2517 
+2518 "Oh, don't talk about trouble!" said the Duchess. "I make you a present
+2519 of everything I've said as yet."
+2520 
+2521 "A cheap sort of present!" thought Alice. "I'm glad they don't give
+2522 birthday presents like that!" But she did not venture to say it out
+2523 loud.
+2524 
+2525 "Thinking again?" the Duchess asked with another dig of her sharp little
+2526 chin.
+2527 
+2528 "I've a right to think," said Alice sharply, for she was beginning to
+2529 feel a little worried.
+2530 
+2531 "Just about as much right," said the Duchess, "as pigs have to fly; and
+2532 the m----"
+2533 
+2534 But here, to Alice's great surprise, the Duchess's voice died away, even
+2535 in the middle of her favourite word "moral," and the arm that was linked
+2536 into hers began to tremble. Alice looked up, and there stood the Queen
+2537 in front of them, with her arms folded, frowning like a thunderstorm.
+2538 
+2539 "A fine day, your Majesty!" the Duchess began in a low, weak voice.
+2540 
+2541 "Now, I give you fair warning," shouted the Queen, stamping on the
+2542 ground as she spoke; "either you or your head must be off, and that in
+2543 about half no time! Take your choice!"
+2544 
+2545 The Duchess took her choice, and was gone in a moment.
+2546 
+2547 "Let's go on with the game," the Queen said to Alice; and Alice was too
+2548 much frightened to say a word, but slowly followed her back to the
+2549 croquet-ground.
+2550 
+2551 The other guests had taken advantage of the Queen's absence, and were
+2552 resting in the shade: however, the moment they saw her, they hurried
+2553 back to the game, the Queen merely remarking that a moment's delay would
+2554 cost them their lives.
+2555 
+2556 [Illustration: _The Queen never left off quarrelling with the other
+2557 players, and shouting "Off with his head!" or, "Off with her head!"_]
+2558 
+2559 All the time they were playing the Queen never left off quarrelling with
+2560 the other players, and shouting "Off with his head!" or "Off with her
+2561 head!" Those whom she sentenced were taken into custody by the soldiers,
+2562 who of course had to leave off being arches to do this, so that by the
+2563 end of half an hour or so there were no arches left, and all the
+2564 players, except the King, the Queen, and Alice, were in custody and
+2565 under sentence of execution.
+2566 
+2567 Then the Queen left off, quite out of breath, and said to Alice, "Have
+2568 you seen the Mock Turtle yet?"
+2569 
+2570 "No," said Alice. "I don't even know what a Mock Turtle is."
+2571 
+2572 "It's the thing Mock Turtle Soup is made from," said the Queen.
+2573 
+2574 "I never saw one, or heard of one," said Alice.
+2575 
+2576 "Come on then," said the Queen, "and he shall tell you his history."
+2577 
+2578 As they walked off together, Alice heard the King say in a low voice, to
+2579 the company generally, "You are all pardoned." "Come, _that's_ a good
+2580 thing!" she said to herself, for she had felt quite unhappy at the
+2581 number of executions the Queen had ordered.
+2582 
+2583 They very soon came upon a Gryphon, lying fast asleep in the sun. (If
+2584 you don't know what a Gryphon is, look at the picture.) "Up, lazy
+2585 thing!" said the Queen, "and take this young lady to see the Mock
+2586 Turtle, and to hear his history. I must go back and see after some
+2587 executions I have ordered," and she walked off, leaving Alice alone
+2588 with the Gryphon. Alice did not quite like the look of the creature, but
+2589 on the whole she thought it would be quite as safe to stay with it as to
+2590 go after that savage Queen: so she waited.
+2591 
+2592 The Gryphon sat up and rubbed its eyes: then it watched the Queen till
+2593 she was out of sight: then it chuckled. "What fun!" said the Gryphon,
+2594 half to itself, half to Alice.
+2595 
+2596 "What _is_ the fun?" said Alice.
+2597 
+2598 "Why, _she_," said the Gryphon. "It's all her fancy, that: they never
+2599 executes nobody, you know. Come on!"
+2600 
+2601 "Everybody says 'come on!' here," thought Alice, as she went slowly
+2602 after it: "I never was so ordered about in my life, never!"
+2603 
+2604 [Illustration]
+2605 
+2606 They had not gone far before they saw the Mock Turtle in the distance,
+2607 sitting sad and lonely on a little ledge of rock, and, as they came
+2608 nearer, Alice could hear him sighing as if his heart would break. She
+2609 pitied him deeply. "What is his sorrow?" she asked the Gryphon, and the
+2610 Gryphon answered, very nearly in the same words as before, "It's all
+2611 his fancy, that: he hasn't got no sorrow, you know. Come on!"
+2612 
+2613 So they went up to the Mock Turtle, who looked at them with large eyes
+2614 full of tears, but said nothing.
+2615 
+2616 "This here young lady," said the Gryphon, "she wants to know your
+2617 history, she do."
+2618 
+2619 "I'll tell it her," said the Mock Turtle in a deep, hollow tone; "sit
+2620 down, both of you, and don't speak a word till I've finished."
+2621 
+2622 So they sat down, and nobody spoke for some minutes. Alice thought to
+2623 herself, "I don't see how he can _ever_ finish, if he doesn't begin."
+2624 But she waited patiently.
+2625 
+2626 "Once," said the Mock Turtle at last, with a deep sigh, "I was a real
+2627 Turtle."
+2628 
+2629 These words were followed by a very long silence, broken only by an
+2630 occasional exclamation of "Hjckrrh!" from the Gryphon, and the constant
+2631 heavy sobbing of the Mock Turtle. Alice was very nearly getting up and
+2632 saying "Thank you, sir, for your interesting story," but she could not
+2633 help thinking there _must_ be more to come, so she sat still and said
+2634 nothing.
+2635 
+2636 "When we were little," the Mock Turtle went on at last, more calmly,
+2637 though still sobbing a little now and then, "we went to school in the
+2638 sea. The master was an old Turtle--we used to call him Tortoise----"
+2639 
+2640 "Why did you call him Tortoise, if he wasn't one?" Alice asked.
+2641 
+2642 "We called him Tortoise because he taught us," said the Mock Turtle
+2643 angrily: "really you are very dull!"
+2644 
+2645 "You ought to be ashamed of yourself for asking such a simple question,"
+2646 added the Gryphon; and then they both sat silent and looked at poor
+2647 Alice, who felt ready to sink into the earth. At last the Gryphon said
+2648 to the Mock Turtle, "Drive on, old fellow. Don't be all day about it!"
+2649 and he went on in these words:
+2650 
+2651 "Yes, we went to school in the sea, though you mayn't believe it----"
+2652 
+2653 "I never said I didn't!" interrupted Alice.
+2654 
+2655 "You did," said the Mock Turtle.
+2656 
+2657 "Hold your tongue!" added the Gryphon, before Alice could speak again.
+2658 The Mock Turtle went on:--
+2659 
+2660 "We had the best of educations--in fact, we went to school every
+2661 day----"
+2662 
+2663 "_I've_ been to a day-school, too," said Alice; "you needn't be so proud
+2664 as all that."
+2665 
+2666 "With extras?" asked the Mock Turtle a little anxiously.
+2667 
+2668 "Yes," said Alice, "we learned French and music."
+2669 
+2670 "And washing?" said the Mock Turtle.
+2671 
+2672 "Certainly not!" said Alice indignantly.
+2673 
+2674 "Ah! then yours wasn't a really good school," said the Mock Turtle in a
+2675 tone of relief. "Now at _ours_ they had at the end of the bill, 'French,
+2676 music, _and washing_--extra.'"
+2677 
+2678 "You couldn't have wanted it much," said Alice; "living at the bottom of
+2679 the sea."
+2680 
+2681 "I couldn't afford to learn it," said the Mock Turtle with a sigh. "I
+2682 only took the regular course."
+2683 
+2684 "What was that?" inquired Alice.
+2685 
+2686 "Reeling and Writhing, of course, to begin with," the Mock Turtle
+2687 replied; "and then the different branches of Arithmetic--Ambition,
+2688 Distraction, Uglification, and Derision."
+2689 
+2690 "I never heard of 'Uglification,'" Alice ventured to say. "What is it?"
+2691 
+2692 The Gryphon lifted up both its paws in surprise. "Never heard of
+2693 uglifying!" it exclaimed. "You know what to beautify is, I suppose?"
+2694 
+2695 "Yes," said Alice doubtfully: "it means--to--make--anything--prettier."
+2696 
+2697 "Well, then," the Gryphon went on, "if you don't know what to uglify is,
+2698 you are a simpleton."
+2699 
+2700 Alice did not feel encouraged to ask any more questions about it, so she
+2701 turned to the Mock Turtle and said, "What else had you to learn?"
+2702 
+2703 "Well, there was Mystery," the Mock Turtle replied, counting off the
+2704 subjects on his flappers, "--Mystery, ancient and modern, with
+2705 Seaography: then Drawling--the Drawling-master was an old conger-eel,
+2706 that used to come once a week: _he_ taught us Drawling, Stretching, and
+2707 Fainting in Coils."
+2708 
+2709 "What was _that_ like?" said Alice.
+2710 
+2711 "Well, I can't show it you myself," the Mock Turtle said: "I'm too
+2712 stiff. And the Gryphon never learnt it."
+2713 
+2714 "Hadn't time," said the Gryphon: "I went to the Classical master,
+2715 though. He was an old crab, _he_ was."
+2716 
+2717 "I never went to him," the Mock Turtle said with a sigh: "he taught
+2718 Laughing and Grief, they used to say."
+2719 
+2720 "So he did, so he did," said the Gryphon, sighing in his turn; and both
+2721 creatures hid their faces in their paws.
+2722 
+2723 "And how many hours a day did you do lessons?" said Alice, in a hurry to
+2724 change the subject.
+2725 
+2726 "Ten hours the first day," said the Mock Turtle: "nine the next, and so
+2727 on."
+2728 
+2729 "What a curious plan!" exclaimed Alice.
+2730 
+2731 "That's the reason they're called lessons," the Gryphon remarked:
+2732 "because they lessen from day to day."
+2733 
+2734 This was quite a new idea to Alice, and she thought over it a little
+2735 before she made her next remark. "Then the eleventh day must have been a
+2736 holiday."
+2737 
+2738 "Of course it was," said the Mock Turtle.
+2739 
+2740 "And how did you manage on the twelfth?" Alice went on eagerly.
+2741 
+2742 "That's enough about lessons," the Gryphon interrupted in a very decided
+2743 tone: "tell her something about the games now."
+2744 
+2745 
+2746 
+2747 
+2748 CHAPTER X
+2749 
+2750 
+2751 [Sidenote: _The Lobster Quadrille_]
+2752 
+2753 THE Mock Turtle sighed deeply, and drew the back of one
+2754 flapper across his eyes. He looked at Alice, and tried to speak, but,
+2755 for a minute or two, sobs choked his voice. "Same as if he had a bone in
+2756 his throat," said the Gryphon: and it set to work shaking him and
+2757 punching him in the back. At last the Mock Turtle recovered his voice,
+2758 and, with tears running down his cheeks, went on again:
+2759 
+2760 "You may not have lived much under the sea--" ("I haven't," said Alice)
+2761 "and perhaps you were never even introduced to a lobster--" (Alice began
+2762 to say "I once tasted----" but checked herself hastily, and said "No,
+2763 never") "--so you can have no idea what a delightful thing a Lobster
+2764 Quadrille is!"
+2765 
+2766 "No, indeed," said Alice. "What sort of a dance is it?"
+2767 
+2768 "Why," said the Gryphon, "you first form into a line along the
+2769 sea-shore----"
+2770 
+2771 "Two lines!" cried the Mock Turtle. "Seals, turtles, and so on; then,
+2772 when you've cleared the jelly-fish out of the way----"
+2773 
+2774 "_That_ generally takes some time," interrupted the Gryphon.
+2775 
+2776 "--you advance twice----"
+2777 
+2778 "Each with a lobster as a partner!" cried the Gryphon.
+2779 
+2780 "Of course," the Mock Turtle said: "advance twice, set to partners----"
+2781 
+2782 "--change lobsters, and retire in same order," continued the Gryphon.
+2783 
+2784 "Then, you know," the Mock Turtle went on, "you throw the----"
+2785 
+2786 "The lobsters!" shouted the Gryphon, with a bound into the air.
+2787 
+2788 "--as far out to sea as you can----"
+2789 
+2790 "Swim, after them!" screamed the Gryphon.
+2791 
+2792 "Turn a somersault in the sea!" cried the Mock Turtle, capering wildly
+2793 about.
+2794 
+2795 "Change lobsters again!" yelled the Gryphon.
+2796 
+2797 "Back to land again, and--that's all the first figure," said the Mock
+2798 Turtle, suddenly dropping his voice; and the two creatures, who had been
+2799 jumping about like mad things all this time, sat down again very sadly
+2800 and quietly, and looked at Alice.
+2801 
+2802 "It must be a very pretty dance," said Alice, timidly.
+2803 
+2804 "Would you like to see a little of it?" said the Mock Turtle.
+2805 
+2806 "Very much indeed," said Alice.
+2807 
+2808 "Come, let's try the first figure!" said the Mock Turtle to the Gryphon.
+2809 "We can do it without lobsters, you know. Which shall sing?"
+2810 
+2811 "Oh, _you_ sing," said the Gryphon. "I've forgotten the words."
+2812 
+2813 So they began solemnly dancing round and round Alice, every now and then
+2814 treading on her toes when they passed too close, and waving their
+2815 forepaws to mark the time, while the Mock Turtle sang this, very slowly
+2816 and sadly:--
+2817 
+2818   "Will you walk a little faster?" said a whiting to a snail,
+2819   "There's a porpoise close behind us, and he's treading on my tail.
+2820   See how eagerly the lobsters and the turtles all advance!
+2821   They are waiting on the shingle--will you come and join the dance?
+2822     Will you, won't you, will you, won't you, will you join the dance?
+2823     Will you, won't you, will you, won't you, won't you join the dance?
+2824 
+2825   "You can really have no notion how delightful it will be,
+2826   When they take us up and throw us, with the lobsters, out to sea!"
+2827   But the snail replied: "Too far, too far!" and gave a look askance--
+2828   Said he thanked the whiting kindly, but he would not join the dance.
+2829     Would not, could not, would not, could not, would not join the dance.
+2830     Would not, could not, would not, could not, could not join the dance.
+2831 
+2832   "What matters it how far we go?" his scaly friend replied;
+2833   "There is another shore, you know, upon the other side.
+2834   The further off from England the nearer is to France--
+2835   Then turn not pale, beloved snail, but come and join the dance.
+2836     Will you, won't you, will you, won't you, will you join the dance?
+2837     Will you, won't you, will you, won't you, won't you join the dance?"
+2838 
+2839 "Thank you, it's a very interesting dance to watch," said Alice, feeling
+2840 very glad that it was over at last: "and I do so like that curious song
+2841 about the whiting!"
+2842 
+2843 "Oh, as to the whiting," said the Mock Turtle, "they--you've seen them,
+2844 of course?"
+2845 
+2846 "Yes," said Alice, "I've often seen them at dinn----" she checked
+2847 herself hastily.
+2848 
+2849 "I don't know where Dinn may be," said the Mock Turtle, "but if you've
+2850 seen them so often, of course you know what they're like."
+2851 
+2852 "I believe so," Alice replied thoughtfully. "They have their tails in
+2853 their mouths--and they're all over crumbs."
+2854 
+2855 "You're wrong about the crumbs," said the Mock Turtle: "crumbs would all
+2856 wash off in the sea. But they _have_ their tails in their mouths; and
+2857 the reason is--" here the Mock Turtle yawned and shut his eyes. "Tell
+2858 her about the reason and all that," he said to the Gryphon.
+2859 
+2860 "The reason is," said the Gryphon, "that they _would_ go with the
+2861 lobsters to the dance. So they got thrown out to sea. So they had to
+2862 fall a long way. So they got their tails fast in their mouths. So they
+2863 couldn't get them out again. That's all."
+2864 
+2865 "Thank you," said Alice. "It's very interesting. I never knew so much
+2866 about a whiting before."
+2867 
+2868 "I can tell you more than that, if you like," said the Gryphon. "Do you
+2869 know why it's called a whiting?"
+2870 
+2871 "I never thought about it," said Alice. "Why?"
+2872 
+2873 "_It does the boots and shoes_," the Gryphon replied very solemnly.
+2874 
+2875 Alice was thoroughly puzzled. "Does the boots and shoes!" she repeated
+2876 in a wondering tone.
+2877 
+2878 "Why, what are _your_ shoes done with?" said the Gryphon. "I mean, what
+2879 makes them so shiny?"
+2880 
+2881 Alice looked down at them, and considered a little before she gave her
+2882 answer. "They're done with blacking, I believe."
+2883 
+2884 "Boots and shoes under the sea," the Gryphon went on in a deep voice,
+2885 "are done with whiting. Now you know."
+2886 
+2887 "And what are they made of?" Alice asked in a tone of great curiosity.
+2888 
+2889 "Soles and eels, of course," the Gryphon replied rather impatiently:
+2890 "any shrimp could have told you that."
+2891 
+2892 "If I'd been the whiting," said Alice, whose thoughts were still running
+2893 on the song, "I'd have said to the porpoise, 'Keep back, please: we
+2894 don't want _you_ with us!'"
+2895 
+2896 "They were obliged to have him with them," the Mock Turtle said: "no
+2897 wise fish would go anywhere without a porpoise."
+2898 
+2899 "Wouldn't it really?" said Alice in a tone of great surprise.
+2900 
+2901 "Of course not," said the Mock Turtle: "why, if a fish came to _me_, and
+2902 told me he was going a journey, I should say, 'With what porpoise?'"
+2903 
+2904 "Don't you mean 'purpose'?" said Alice.
+2905 
+2906 "I mean what I say," the Mock Turtle replied in an offended tone. And
+2907 the Gryphon added, "Come, let's hear some of _your_ adventures."
+2908 
+2909 [Illustration: _The Mock Turtle drew a long breath and said, "That's
+2910 very curious"_]
+2911 
+2912 "I could tell you my adventures--beginning from this morning," said
+2913 Alice a little timidly: "but it's no use going back to yesterday,
+2914 because I was a different person then."
+2915 
+2916 "Explain all that," said the Mock Turtle.
+2917 
+2918 "No, no! The adventures first," said the Gryphon in an impatient tone:
+2919 "explanations take such a dreadful time."
+2920 
+2921 So Alice began telling them her adventures from the time when she first
+2922 saw the White Rabbit. She was a little nervous about it just at first,
+2923 the two creatures got so close to her, one on each side, and opened
+2924 their eyes and mouths so _very_ wide, but she gained courage as she went
+2925 on. Her listeners were perfectly quiet till she got to the part about
+2926 her repeating "_You are old, Father William_," to the Caterpillar, and
+2927 the words all coming different, and then the Mock Turtle drew a long
+2928 breath, and said, "That's very curious."
+2929 
+2930 "It's all about as curious as it can be," said the Gryphon.
+2931 
+2932 "It all came different!" the Mock Turtle repeated thoughtfully. "I
+2933 should like to hear her repeat something now. Tell her to begin." He
+2934 looked at the Gryphon as if he thought it had some kind of authority
+2935 over Alice.
+2936 
+2937 "Stand up and repeat '_'Tis the voice of the sluggard_,'" said the
+2938 Gryphon.
+2939 
+2940 "How the creatures order one about, and make one repeat lessons!"
+2941 thought Alice. "I might as well be at school at once." However, she got
+2942 up, and began to repeat it, but her head was so full of the Lobster
+2943 Quadrille, that she hardly knew what she was saying, and the words came
+2944 very queer indeed:--
+2945 
+2946           "'Tis the voice of the Lobster; I heard him declare,
+2947           'You have baked me too brown, I must sugar my hair.'
+2948           As a duck with its eyelids, so he with his nose
+2949           Trims his belt and his buttons, and turns out his toes.
+2950           When the sands are all dry, he is gay as a lark,
+2951           And will talk in contemptuous tones of the Shark:
+2952           But, when the tide rises and sharks are around,
+2953           His voice has a timid and tremulous sound."
+2954 
+2955 "That's different from what _I_ used to say when I was a child," said
+2956 the Gryphon.
+2957 
+2958 "Well, _I_ never heard it before," said the Mock Turtle: "but it sounds
+2959 uncommon nonsense."
+2960 
+2961 Alice said nothing; she had sat down with her face in her hands,
+2962 wondering if anything would _ever_ happen in a natural way again.
+2963 
+2964 "I should like to have it explained," said the Mock Turtle.
+2965 
+2966 "She ca'n't explain it," hastily said the Gryphon. "Go on with the next
+2967 verse."
+2968 
+2969 "But about his toes?" the Mock Turtle persisted. "How _could_ he turn
+2970 them out with his nose, you know?"
+2971 
+2972 "It's the first position in dancing," Alice said; but was dreadfully
+2973 puzzled by the whole thing, and longed to change the subject.
+2974 
+2975 "Go on with the next verse," the Gryphon repeated: "it begins '_I passed
+2976 by his garden_.'"
+2977 
+2978 Alice did not dare to disobey, though she felt sure it would all come
+2979 wrong, and she went on in a trembling voice:
+2980 
+2981           "I passed by his garden, and marked, with one eye,
+2982           How the Owl and the Panther were sharing a pie:
+2983           The Panther took pie-crust, and gravy, and meat,
+2984           While the Owl had the dish as its share of the treat.
+2985           When the pie was all finished, the Owl, as a boon,
+2986           Was kindly permitted to pocket the spoon:
+2987           While the Panther received knife and fork with a growl,
+2988           And concluded the banquet by----"
+2989 
+2990 "What _is_ the use of repeating all that stuff," the Mock Turtle
+2991 interrupted, "if you don't explain it as you go on? It's by far the most
+2992 confusing thing _I_ ever heard!"
+2993 
+2994 [Illustration]
+2995 
+2996 "Yes, I think you'd better leave off," said the Gryphon: and Alice was
+2997 only too glad to do so.
+2998 
+2999 "Shall we try another figure of the Lobster Quadrille?" the Gryphon went
+3000 on. "Or would you like the Mock Turtle to sing you another song?"
+3001 
+3002 "Oh, a song, please, if the Mock Turtle would be so kind," Alice
+3003 replied, so eagerly that the Gryphon said, in a rather offended tone,
+3004 "H'm! No accounting for tastes! Sing her '_Turtle Soup_,' will you, old
+3005 fellow?"
+3006 
+3007 The Mock Turtle sighed deeply, and began, in a voice choked with sobs,
+3008 to sing this:--
+3009 
+3010           "Beautiful Soup, so rich and green,
+3011           Waiting in a hot tureen!
+3012           Who for such dainties would not stoop?
+3013           Soup of the evening, beautiful Soup!
+3014           Soup of the evening, beautiful Soup!
+3015               Beau--ootiful Soo--oop!
+3016               Beau--ootiful Soo--oop!
+3017           Soo--oop of the e--e--evening,
+3018               Beautiful, beautiful Soup!
+3019 
+3020           "Beautiful Soup! Who cares for fish,
+3021           Game, or any other dish?
+3022           Who would not give all else for two
+3023           Pennyworth only of beautiful Soup?
+3024           Pennyworth only of beautiful Soup?
+3025               Beau--ootiful Soo--oop!
+3026               Beau--ootiful Soo--oop!
+3027           Soo--oop of the e--e--evening,
+3028               Beautiful, beauti--FUL SOUP!"
+3029 
+3030 "Chorus again!" cried the Gryphon, and the Mock Turtle had just begun
+3031 to repeat it, when a cry of "The trial's beginning!" was heard in the
+3032 distance.
+3033 
+3034 "Come on!" cried the Gryphon, and, taking Alice by the hand, it hurried
+3035 off, without waiting for the end of the song.
+3036 
+3037 "What trial is it?" Alice panted as she ran; but the Gryphon only
+3038 answered "Come on!" and ran the faster, while more and more faintly
+3039 came, carried on the breeze that followed them, the melancholy words:--
+3040 
+3041           "Soo--oop of the e--e--evening,
+3042               Beautiful, beautiful Soup!"
+3043 
+3044 
+3045 
+3046 
+3047 CHAPTER XI
+3048 
+3049 
+3050 [Sidenote: _Who Stole the Tarts?_]
+3051 
+3052 THE King and Queen of Hearts were seated on their throne
+3053 when they arrived, with a great crowd assembled about them--all sorts of
+3054 little birds and beasts, as well as the whole pack of cards: the Knave
+3055 was standing before them, in chains, with a soldier on each side to
+3056 guard him; and near the King was the White Rabbit, with a trumpet in one
+3057 hand, and a scroll of parchment in the other. In the very middle of the
+3058 court was a table, with a large dish of tarts upon it: they looked so
+3059 good, that it made Alice quite hungry to look at them--"I wish they'd
+3060 get the trial done," she thought, "and hand round the refreshments!" But
+3061 there seemed to be no chance of this, so she began looking about her, to
+3062 pass away the time.
+3063 
+3064 Alice had never been in a court of justice before, but she had read
+3065 about them in books, and she was quite pleased to find that she knew the
+3066 name of nearly everything there. "That's the judge," she said to
+3067 herself, "because of his great wig."
+3068 
+3069 The judge, by the way, was the King; and as he wore his crown over the
+3070 wig, he did not look at all comfortable, and it was certainly not
+3071 becoming.
+3072 
+3073 "And that's the jury-box," thought Alice, "and those twelve creatures,"
+3074 (she was obliged to say "creatures," you see, because some of them were
+3075 animals, and some were birds,) "I suppose they are the jurors." She said
+3076 this last word two or three times over to herself, being rather proud of
+3077 it: for she thought, and rightly too, that very few little girls of her
+3078 age knew the meaning of it at all. However, "jurymen" would have done
+3079 just as well.
+3080 
+3081 The twelve jurors were all writing very busily on slates. "What are they
+3082 all doing?" Alice whispered to the Gryphon. "They can't have anything to
+3083 put down yet, before the trial's begun."
+3084 
+3085 [Illustration: _Who stole the tarts?_]
+3086 
+3087 "They're putting down their names," the Gryphon whispered in reply,
+3088 "for fear they should forget them before the end of the trial."
+3089 
+3090 "Stupid things!" Alice began in a loud, indignant voice, but she stopped
+3091 hastily, for the White Rabbit cried out "Silence in the court!" and the
+3092 King put on his spectacles and looked anxiously round, to see who was
+3093 talking.
+3094 
+3095 Alice could see, as well as if she were looking over their shoulders,
+3096 that all the jurors were writing down "stupid things!" on their slates,
+3097 and she could even make out that one of them didn't know how to spell
+3098 "stupid," and that he had to ask his neighbour to tell him. "A nice
+3099 muddle their slates will be in before the trial's over!" thought Alice.
+3100 
+3101 One of the jurors had a pencil that squeaked. This, of course, Alice
+3102 could _not_ stand, and she went round the court and got behind him, and
+3103 very soon found an opportunity of taking it away. She did it so quickly
+3104 that the poor little juror (it was Bill, the Lizard) could not make out
+3105 at all what had become of it; so, after hunting all about for it, he
+3106 was obliged to write with one finger for the rest of the day; and this
+3107 was of very little use, as it left no mark on the slate.
+3108 
+3109 "Herald, read the accusation!" said the King.
+3110 
+3111 On this the White Rabbit blew three blasts on the trumpet, and then
+3112 unrolled the parchment scroll, and read as follows:
+3113 
+3114           "The Queen of Hearts, she made some tarts,
+3115               All on a summer day:
+3116           The Knave of Hearts, he stole those tarts,
+3117               And took them quite away!"
+3118 
+3119 "Consider your verdict," the King said to the jury.
+3120 
+3121 "Not yet, not yet!" the Rabbit hastily interrupted. "There's a great
+3122 deal to come before that!"
+3123 
+3124 "Call the first witness," said the King; and the Rabbit blew three
+3125 blasts on the trumpet, and called out "First witness!"
+3126 
+3127 The first witness was the Hatter. He came in with a teacup in one hand
+3128 and a piece of bread-and-butter in the other. "I beg pardon, your
+3129 Majesty," he began, "for bringing these in; but I hadn't quite finished
+3130 my tea when I was sent for."
+3131 
+3132 "You ought to have finished," said the King. "When did you begin?"
+3133 
+3134 The Hatter looked at the March Hare, who had followed him into the
+3135 court, arm-in-arm with the Dormouse. "Fourteenth of March, I _think_ it
+3136 was," he said.
+3137 
+3138 "Fifteenth," said the March Hare.
+3139 
+3140 "Sixteenth," said the Dormouse.
+3141 
+3142 "Write that down," the King said to the jury, and the jury eagerly wrote
+3143 down all three dates on their slates, and then added them up, and
+3144 reduced the answer to shillings and pence.
+3145 
+3146 "Take off your hat," the King said to the Hatter.
+3147 
+3148 "It isn't mine," said the Hatter.
+3149 
+3150 "_Stolen!_" the King exclaimed, turning to the jury, who instantly made
+3151 a memorandum of the fact.
+3152 
+3153 "I keep them to sell," the Hatter added as an explanation: "I've none of
+3154 my own. I'm a hatter."
+3155 
+3156 Here the Queen put on her spectacles, and began staring hard at the
+3157 Hatter, who turned pale and fidgeted.
+3158 
+3159 "Give your evidence," said the King; "and don't be nervous, or I'll have
+3160 you executed on the spot."
+3161 
+3162 This did not seem to encourage the witness at all: he kept shifting from
+3163 one foot to the other, looking uneasily at the Queen, and in his
+3164 confusion he bit a large piece out of his teacup instead of the
+3165 bread-and-butter.
+3166 
+3167 Just at this moment Alice felt a very curious sensation, which puzzled
+3168 her a good deal until she made out what it was: she was beginning to
+3169 grow larger again, and she thought at first she would get up and leave
+3170 the court; but on second thoughts she decided to remain where she was as
+3171 long as there was room for her.
+3172 
+3173 "I wish you wouldn't squeeze so," said the Dormouse, who was sitting
+3174 next to her. "I can hardly breathe."
+3175 
+3176 "I can't help it," said Alice very meekly: "I'm growing."
+3177 
+3178 "You've no right to grow _here_," said the Dormouse.
+3179 
+3180 "Don't talk nonsense," said Alice more boldly: "you know you're growing
+3181 too."
+3182 
+3183 "Yes, but _I_ grow at a reasonable pace," said the Dormouse; "not in
+3184 that ridiculous fashion." And he got up very sulkily and crossed over to
+3185 the other side of the court.
+3186 
+3187 All this time the Queen had never left off staring at the Hatter, and,
+3188 just as the Dormouse crossed the court, she said to one of the officers
+3189 of the court, "Bring me the list of the singers in the last concert!" on
+3190 which the wretched Hatter trembled so, that he shook off both his shoes.
+3191 
+3192 "Give your evidence," the King repeated angrily, "or I'll have you
+3193 executed, whether you're nervous or not."
+3194 
+3195 "I'm a poor man, your Majesty," the Hatter began, in a trembling voice,
+3196 "--and I hadn't begun my tea--not above a week or so--and what with the
+3197 bread-and-butter getting so thin--and the twinkling of the tea----"
+3198 
+3199 "The twinkling of _what_?" said the King.
+3200 
+3201 "It _began_ with the tea," the Hatter replied.
+3202 
+3203 "Of course twinkling _begins_ with a T!" said the King sharply. "Do you
+3204 take me for a dunce? Go on!"
+3205 
+3206 "I'm a poor man," the Hatter went on, "and most things twinkled after
+3207 that--only the March Hare said----"
+3208 
+3209 "I didn't!" the March Hare interrupted in a great hurry.
+3210 
+3211 "You did!" said the Hatter.
+3212 
+3213 "I deny it!" said the March Hare.
+3214 
+3215 "He denies it," said the King: "leave out that part."
+3216 
+3217 "Well, at any rate, the Dormouse said----" the Hatter went on, looking
+3218 anxiously round to see if he would deny it too: but the Dormouse denied
+3219 nothing, being fast asleep.
+3220 
+3221 "After that," continued the Hatter, "I cut some more
+3222 bread-and-butter----"
+3223 
+3224 "But what did the Dormouse say?" one of the jury asked.
+3225 
+3226 "That I can't remember," said the Hatter.
+3227 
+3228 "You _must_ remember," remarked the King, "or I'll have you executed."
+3229 
+3230 The miserable Hatter dropped his teacup and bread-and-butter, and went
+3231 down on one knee. "I'm a poor man, your Majesty," he began.
+3232 
+3233 "You're a _very_ poor _speaker_," said the King.
+3234 
+3235 Here one of the guinea-pigs cheered, and was immediately suppressed by
+3236 the officers of the court. (As that is rather a hard word, I will just
+3237 explain to you how it was done. They had a large canvas bag, which tied
+3238 up at the mouth with strings: into this they slipped the guinea-pig,
+3239 head first, and then sat upon it.)
+3240 
+3241 "I'm glad I've seen that done," thought Alice. "I've so often read in
+3242 the newspapers, at the end of trials, 'There was some attempt at
+3243 applause, which was immediately suppressed by the officers of the
+3244 court,' and I never understood what it meant till now."
+3245 
+3246 "If that's all you know about it, you may stand down," continued the
+3247 King.
+3248 
+3249 "I can't go no lower," said the Hatter: "I'm on the floor, as it is."
+3250 
+3251 "Then you may _sit_ down," the King replied.
+3252 
+3253 Here the other guinea-pig cheered, and was suppressed.
+3254 
+3255 "Come, that finishes the guinea-pigs!" thought Alice. "Now we shall get
+3256 on better."
+3257 
+3258 "I'd rather finish my tea," said the Hatter, with an anxious look at
+3259 the Queen, who was reading the list of singers.
+3260 
+3261 "You may go," said the King; and the Hatter hurriedly left the court,
+3262 without even waiting to put his shoes on.
+3263 
+3264 "--and just take his head off outside," the Queen added to one of the
+3265 officers; but the Hatter was out of sight before the officer could get
+3266 to the door.
+3267 
+3268 "Call the next witness!" said the King.
+3269 
+3270 The next witness was the Duchess's cook. She carried the pepper-box in
+3271 her hand, and Alice guessed who it was, even before she got into the
+3272 court, by the way the people near the door began sneezing all at once.
+3273 
+3274 "Give your evidence," said the King.
+3275 
+3276 "Sha'n't," said the cook.
+3277 
+3278 The King looked anxiously at the White Rabbit, who said in a low voice,
+3279 "Your Majesty must cross-examine _this_ witness."
+3280 
+3281 "Well, if I must, I must," the King said with a melancholy air, and,
+3282 after folding his arms and frowning at the cook till his eyes were
+3283 nearly out of sight, he said in a deep voice, "What are tarts made of?"
+3284 
+3285 "Pepper, mostly," said the cook.
+3286 
+3287 "Treacle," said a sleepy voice behind her.
+3288 
+3289 "Collar that Dormouse," the Queen shrieked out. "Behead that Dormouse!
+3290 Turn that Dormouse out of court! Suppress him! Pinch him! Off with his
+3291 whiskers."
+3292 
+3293 For some minutes the whole court was in confusion, getting the Dormouse
+3294 turned out, and, by the time they had settled down again, the cook had
+3295 disappeared.
+3296 
+3297 [Illustration]
+3298 
+3299 "Never mind!" said the King, with an air of great relief. "Call the next
+3300 witness." And he added in an undertone to the Queen, "Really, my dear,
+3301 _you_ must cross-examine the next witness. It quite makes my forehead
+3302 ache!"
+3303 
+3304 Alice watched the White Rabbit as he fumbled over the list, feeling very
+3305 curious to see what the next witness would be like, "--for they haven't
+3306 got much evidence _yet_," she said to herself. Imagine her surprise,
+3307 when the White Rabbit read out, at the top of his shrill little voice,
+3308 the name "Alice!"
+3309 
+3310 
+3311 
+3312 
+3313 CHAPTER XII
+3314 
+3315 
+3316 [Sidenote: _Alice's Evidence_]
+3317 
+3318 "HERE!" cried Alice, quite forgetting in the flurry of
+3319 the moment how large she had grown in the last few minutes, and she
+3320 jumped up in such a hurry that she tipped over the jury-box with the
+3321 edge of her skirt, upsetting all the jurymen on to the heads of the
+3322 crowd below, and there they lay sprawling about, reminding her very much
+3323 of a globe of gold-fish she had accidentally upset the week before.
+3324 
+3325 "Oh, I _beg_ your pardon!" she exclaimed in a tone of great dismay, and
+3326 began picking them up again as quickly as she could, for the accident of
+3327 the gold-fish kept running in her head, and she had a vague sort of idea
+3328 that they must be collected at once and put back into the jury-box, or
+3329 they would die.
+3330 
+3331 "The trial cannot proceed," said the King in a very grave voice, "until
+3332 all the jurymen are back in their proper places--_all_," he repeated
+3333 with great emphasis, looking hard at Alice as he said so.
+3334 
+3335 Alice looked at the jury-box, and saw that, in her haste, she had put
+3336 the Lizard in head downwards, and the poor little thing was waving its
+3337 tail about in a melancholy way, being quite unable to move. She soon got
+3338 it out again, and put it right; "not that it signifies much," she said
+3339 to herself; "I should think it would be _quite_ as much use in the trial
+3340 one way up as the other."
+3341 
+3342 As soon as the jury had a little recovered from the shock of being
+3343 upset, and their slates and pencils had been found and handed back to
+3344 them, they set to work very diligently to write out a history of the
+3345 accident, all except the Lizard, who seemed too much overcome to do
+3346 anything but sit with its mouth open, gazing up into the roof of the
+3347 court.
+3348 
+3349 "What do you know about this business?" the King said to Alice.
+3350 
+3351 "Nothing," said Alice.
+3352 
+3353 "Nothing _whatever_?" persisted the King.
+3354 
+3355 "Nothing whatever," said Alice.
+3356 
+3357 "That's very important," the King said, turning to the jury. They were
+3358 just beginning to write this down on their slates, when the White Rabbit
+3359 interrupted: "_Un_important, your Majesty means, of course," he said in
+3360 a very respectful tone, but frowning and making faces at him as he
+3361 spoke.
+3362 
+3363 "_Un_important, of course, I meant," the King hastily said, and went on
+3364 himself in an undertone,"important--unimportant--unimportant--important----"
+3365 as if he were trying which word sounded best.
+3366 
+3367 Some of the jury wrote it down "important," and some "unimportant."
+3368 Alice could see this, as she was near enough to look over their slates;
+3369 "but it doesn't matter a bit," she thought to herself.
+3370 
+3371 At this moment the King, who had been for some time busily writing in
+3372 his note-book, called out "Silence!" and read out from his book, "Rule
+3373 Forty-two. _All persons more than a mile high to leave the court._"
+3374 
+3375 Everybody looked at Alice.
+3376 
+3377 "_I'm_ not a mile high," said Alice.
+3378 
+3379 "You are," said the King.
+3380 
+3381 "Nearly two miles high," added the Queen.
+3382 
+3383 "Well, I sha'n't go, at any rate," said Alice: "besides, that's not a
+3384 regular rule: you invented it just now."
+3385 
+3386 "It's the oldest rule in the book," said the King.
+3387 
+3388 "Then it ought to be Number One," said Alice.
+3389 
+3390 The King turned pale, and shut his note-book hastily. "Consider your
+3391 verdict," he said to the jury, in a low trembling voice.
+3392 
+3393 "There's more evidence to come yet, please your Majesty," said the White
+3394 Rabbit, jumping up in a great hurry: "this paper has just been picked
+3395 up."
+3396 
+3397 "What's in it?" said the Queen.
+3398 
+3399 "I haven't opened it yet," said the White Rabbit, "but it seems to be a
+3400 letter, written by the prisoner to--to somebody."
+3401 
+3402 "It must have been that," said the King, "unless it was written to
+3403 nobody, which isn't usual, you know."
+3404 
+3405 "Who is it directed to?" said one of the jurymen.
+3406 
+3407 "It isn't directed at all," said the White Rabbit; "in fact, there's
+3408 nothing written on the _outside_." He unfolded the paper as he spoke,
+3409 and added "It isn't a letter after all: it's a set of verses."
+3410 
+3411 "Are they in the prisoner's handwriting?" asked another of the jurymen.
+3412 
+3413 "No, they're not," said the White Rabbit, "and that's the queerest thing
+3414 about it." (The jury all looked puzzled.)
+3415 
+3416 "He must have imitated somebody else's hand," said the King. (The jury
+3417 all brightened up again.)
+3418 
+3419 "Please your Majesty," said the Knave, "I didn't write it, and they
+3420 can't prove that I did: there's no name signed at the end."
+3421 
+3422 "If you didn't sign it," said the King, "that only makes the matter
+3423 worse. You _must_ have meant some mischief, or else you'd have signed
+3424 your name like an honest man."
+3425 
+3426 There was a general clapping of hands at this: it was the first really
+3427 clever thing the King had said that day.
+3428 
+3429 "That _proves_ his guilt, of course," said the Queen: "so, off with----"
+3430 
+3431 "It doesn't prove anything of the sort!" said Alice. "Why, you don't
+3432 even know what they're about!"
+3433 
+3434 "Read them," said the King.
+3435 
+3436 The White Rabbit put on his spectacles. "Where shall I begin, please
+3437 your Majesty?" he asked.
+3438 
+3439 "Begin at the beginning," the King said gravely, "and go on till you
+3440 come to the end; then stop."
+3441 
+3442 There was dead silence in the court, whilst the White Rabbit read out
+3443 these verses:--
+3444 
+3445           "They told me you had been to her,
+3446              And mentioned me to him:
+3447            She gave me a good character,
+3448              But said I could not swim.
+3449 
+3450            He sent them word I had not gone,
+3451              (We know it to be true):
+3452            If she should push the matter on,
+3453              What would become of you?
+3454 
+3455            I gave her one, they gave him two,
+3456              You gave us three or more;
+3457            They all returned from him to you,
+3458              Though they were mine before.
+3459 
+3460            If I or she should chance to be
+3461              Involved in this affair,
+3462            He trusts to you to set them free,
+3463              Exactly as we were.
+3464 
+3465            My notion was that you had been
+3466              (Before she had this fit)
+3467            An obstacle that came between
+3468              Him, and ourselves, and it.
+3469 
+3470            Don't let him know she liked them best,
+3471              For this must ever be
+3472            A secret, kept from all the rest,
+3473              Between yourself and me."
+3474 
+3475 "That's the most important piece of evidence we've heard yet," said the
+3476 King, rubbing his hands; "so now let the jury----"
+3477 
+3478 "If any of them can explain it," said Alice, (she had grown so large in
+3479 the last few minutes that she wasn't a bit afraid of interrupting him,)
+3480 "I'll give him sixpence. _I_ don't believe there's an atom of meaning in
+3481 it."
+3482 
+3483 The jury all wrote down on their slates, "_She_ doesn't believe there's
+3484 an atom of meaning in it," but none of them attempted to explain the
+3485 paper.
+3486 
+3487 "If there's no meaning in it," said the King, "that saves a world of
+3488 trouble, you know, as we needn't try to find any. And yet I don't
+3489 know," he went on, spreading out the verses on his knee, and looking at
+3490 them with one eye; "I seem to see some meaning in them after all.
+3491 '----_said I could not swim_--' you can't swim can you?" he added,
+3492 turning to the Knave.
+3493 
+3494 The Knave shook his head sadly. "Do I look like it?" he said. (Which he
+3495 certainly did _not_, being made entirely of cardboard.)
+3496 
+3497 "All right, so far," said the King, as he went on muttering over the
+3498 verses to himself: "'_We know it to be true_--' that's the jury, of
+3499 course--'_If she should push the matter on_'--that must be the
+3500 Queen--'_What would become of you?_'--What, indeed!--'_I gave her one,
+3501 they gave him two_--' why, that must be what he did with the tarts, you
+3502 know----"
+3503 
+3504 "But it goes on '_they all returned from him to you_,'" said Alice.
+3505 
+3506 "Why, there they are!" said the King triumphantly, pointing to the tarts
+3507 on the table. "Nothing can be clearer than _that_. Then again--'_before
+3508 she had this fit_--' you never had _fits_, my dear, I think?" he said to
+3509 the Queen.
+3510 
+3511 "Never!" said the Queen furiously, throwing an inkstand at the Lizard
+3512 as she spoke. (The unfortunate little Bill had left off writing on his
+3513 slate with one finger, as he found it made no mark; but he now hastily
+3514 began again, using the ink, that was trickling down his face, as long as
+3515 it lasted.)
+3516 
+3517 "Then the words don't _fit_ you," said the King, looking round the court
+3518 with a smile. There was a dead silence.
+3519 
+3520 "It's a pun!" the King added in an angry tone, and everybody laughed.
+3521 
+3522 "Let the jury consider their verdict," the King said, for about the
+3523 twentieth time that day.
+3524 
+3525 "No, no!" said the Queen. "Sentence first--verdict afterwards."
+3526 
+3527 "Stuff and nonsense!" said Alice loudly. "The idea of having the
+3528 sentence first!"
+3529 
+3530 "Hold your tongue!" said the Queen, turning purple.
+3531 
+3532 "I won't!" said Alice.
+3533 
+3534 "Off with her head!" the Queen shouted at the top of her voice. Nobody
+3535 moved.
+3536 
+3537 "Who cares for _you_?" said Alice (she had grown to her full size by
+3538 this time). "You're nothing but a pack of cards!"
+3539 
+3540 [Illustration: _At this the whole pack rose up into the air, and came
+3541 flying down upon her_]
+3542 
+3543 At this the whole pack rose up into the air, and came flying down upon
+3544 her: she gave a little scream, half of fright and half of anger, and
+3545 tried to beat them off, and found herself lying on the bank, with her
+3546 head in the lap of her sister, who was gently brushing away some dead
+3547 leaves that had fluttered down from the trees upon her face.
+3548 
+3549 "Wake up, Alice dear!" said her sister. "Why, what a long sleep you've
+3550 had!"
+3551 
+3552 "Oh, I've had such a curious dream!" said Alice, and she told her
+3553 sister, as well as she could remember them, all these strange Adventures
+3554 of hers that you have just been reading about; and when she had
+3555 finished, her sister kissed her, and said "It _was_ a curious dream,
+3556 dear, certainly: but now run in to your tea; it's getting late." So
+3557 Alice got up and ran off, thinking while she ran, as well she might,
+3558 what a wonderful dream it had been.
+3559 
+3560 
+3561 
+3562 
+3563 BUT her sister sat still just as she had left her, leaning her head,
+3564 watching the setting sun, and thinking of little Alice and all her
+3565 wonderful Adventures, till she too began dreaming after a fashion, and
+3566 this was her dream:
+3567 
+3568 First, she dreamed of little Alice herself, and once again the tiny
+3569 hands were clasped upon her knee, and the bright eager eyes were looking
+3570 up into hers--she could hear the very tones of her voice, and see that
+3571 queer little toss of her head to keep back the wandering hair that
+3572 _would_ always get into her eyes--and still as she listened, or seemed
+3573 to listen, the whole place around her became alive with the strange
+3574 creatures of her little sister's dream.
+3575 
+3576 The long grass rustled at her feet as the White Rabbit hurried by--the
+3577 frightened Mouse splashed his way through the neighbouring pool--she
+3578 could hear the rattle of the teacups as the March Hare and his friends
+3579 shared their never-ending meal, and the shrill voice of the Queen
+3580 ordering off her unfortunate guests to execution--once more the pig-baby
+3581 was sneezing on the Duchess' knee, while plates and dishes crashed
+3582 around it--once more the shriek of the Gryphon, the squeaking of the
+3583 Lizard's slate-pencil, and the choking of the suppressed guinea-pigs,
+3584 filled the air, mixed up with the distant sobs of the miserable Mock
+3585 Turtle.
+3586 
+3587 So she sat on with closed eyes, and half believed herself in Wonderland,
+3588 though she knew she had but to open them again, and all would change to
+3589 dull reality--the grass would be only rustling in the wind, and the pool
+3590 rippling to the waving of the reeds--the rattling teacups would change
+3591 to the tinkling sheep-bells, and the Queen's shrill cries to the voice
+3592 of the shepherd boy--and the sneeze of the baby, the shriek of the
+3593 Gryphon, and all the other queer noises, would change (she knew) to the
+3594 confused clamour of the busy farm-yard--while the lowing of the cattle
+3595 in the distance would take the place of the Mock Turtle's heavy sobs.
+3596 
+3597 Lastly, she pictured to herself how this same little sister of hers
+3598 would, in the after-time, be herself a grown woman; and how she would
+3599 keep, through all her riper years, the simple and loving heart of her
+3600 childhood: and how she would gather about her other little children,
+3601 and make _their_ eyes bright and eager with many a strange tale, perhaps
+3602 even with the dream of Wonderland of long ago: and how she would feel
+3603 with all their simple sorrows, and find a pleasure in all their simple
+3604 joys, remembering her own child-life, and the happy summer days.
+3605 
+3606 
+3607 THE END
+3608 
+3609 
+3610 
+3611 
+3612           ILLUSTRATIONS REPRODUCED BY HENTSCHEL COLOURTYPE
+3613               TEXT PRINTED BY BALLANTYNE & COMPANY LTD
+3614                        AT THE BALLANTYNE PRESS
+3615                            TAVISTOCK STREET
+3616                                  LONDON
+3617 
+3618        *       *       *       *       *
+3619 
+3620 Transcriber's Notes:
+3621 
+3622 Page 8, opening quote added to text (doorway; "and even if)
+3623 
+3624 Page 33, "she" changed to "she's" (And she's such a)
+3625 
+3626 Page 37, "quiet" changed to "quite" (I'm quite tired of)
+3627 
+3628 Page 41, colon changed to period (arm, yer honour.)
+3629 
+3630 Page 42, "wont" changed to "want" (want to stay)
+3631 
+3632 Page 66, closing quotation mark added (to-morrow----")
+3633 
+3634 Page 69, single quotation mark changed to double (cat," said the
+3635 Duchess)
+3636 
+3637 Page 91, word "to" added to text (minute or two to)
+3638 
+3639 Page 103, word "as" added to the text (just as she had)
+3640 
+3641 Page 104, "hedge-hog" changed to "hedgehog" (send the hedgehog to)
+3642 
+3643 Page 126, end parenthesis added ("No, never")
+3644 
+3645 Page 153, added an apostrophe (What's in it?)
+3646 
+3647 
+3648 
+3649 
+3650 
+3651 
+3652 End of Project Gutenberg's Alice's Adventures in Wonderland, by Lewis Carroll
+3653 
+3654 *** END OF THIS PROJECT GUTENBERG EBOOK ALICE'S ADVENTURES IN WONDERLAND ***
+3655 
+3656 ***** This file should be named 28885-8.txt or 28885-8.zip *****
+3657 This and all associated files of various formats will be found in:
+3658         http://www.gutenberg.org/2/8/8/8/28885/
+3659 
+3660 Produced by Jana Srna, Emmy and the Online Distributed
+3661 Proofreading Team at http://www.pgdp.net (This file was
+3662 produced from images generously made available by the
+3663 University of Florida Digital Collections.)
+3664 
+3665 
+3666 Updated editions will replace the previous one--the old editions
+3667 will be renamed.
+3668 
+3669 Creating the works from public domain print editions means that no
+3670 one owns a United States copyright in these works, so the Foundation
+3671 (and you!) can copy and distribute it in the United States without
+3672 permission and without paying copyright royalties.  Special rules,
+3673 set forth in the General Terms of Use part of this license, apply to
+3674 copying and distributing Project Gutenberg-tm electronic works to
+3675 protect the PROJECT GUTENBERG-tm concept and trademark.  Project
+3676 Gutenberg is a registered trademark, and may not be used if you
+3677 charge for the eBooks, unless you receive specific permission.  If you
+3678 do not charge anything for copies of this eBook, complying with the
+3679 rules is very easy.  You may use this eBook for nearly any purpose
+3680 such as creation of derivative works, reports, performances and
+3681 research.  They may be modified and printed and given away--you may do
+3682 practically ANYTHING with public domain eBooks.  Redistribution is
+3683 subject to the trademark license, especially commercial
+3684 redistribution.
+3685 
+3686 
+3687 
+3688 *** START: FULL LICENSE ***
+3689 
+3690 THE FULL PROJECT GUTENBERG LICENSE
+3691 PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+3692 
+3693 To protect the Project Gutenberg-tm mission of promoting the free
+3694 distribution of electronic works, by using or distributing this work
+3695 (or any other work associated in any way with the phrase "Project
+3696 Gutenberg"), you agree to comply with all the terms of the Full Project
+3697 Gutenberg-tm License (available with this file or online at
+3698 http://gutenberg.net/license).
+3699 
+3700 
+3701 Section 1.  General Terms of Use and Redistributing Project Gutenberg-tm
+3702 electronic works
+3703 
+3704 1.A.  By reading or using any part of this Project Gutenberg-tm
+3705 electronic work, you indicate that you have read, understand, agree to
+3706 and accept all the terms of this license and intellectual property
+3707 (trademark/copyright) agreement.  If you do not agree to abide by all
+3708 the terms of this agreement, you must cease using and return or destroy
+3709 all copies of Project Gutenberg-tm electronic works in your possession.
+3710 If you paid a fee for obtaining a copy of or access to a Project
+3711 Gutenberg-tm electronic work and you do not agree to be bound by the
+3712 terms of this agreement, you may obtain a refund from the person or
+3713 entity to whom you paid the fee as set forth in paragraph 1.E.8.
+3714 
+3715 1.B.  "Project Gutenberg" is a registered trademark.  It may only be
+3716 used on or associated in any way with an electronic work by people who
+3717 agree to be bound by the terms of this agreement.  There are a few
+3718 things that you can do with most Project Gutenberg-tm electronic works
+3719 even without complying with the full terms of this agreement.  See
+3720 paragraph 1.C below.  There are a lot of things you can do with Project
+3721 Gutenberg-tm electronic works if you follow the terms of this agreement
+3722 and help preserve free future access to Project Gutenberg-tm electronic
+3723 works.  See paragraph 1.E below.
+3724 
+3725 1.C.  The Project Gutenberg Literary Archive Foundation ("the Foundation"
+3726 or PGLAF), owns a compilation copyright in the collection of Project
+3727 Gutenberg-tm electronic works.  Nearly all the individual works in the
+3728 collection are in the public domain in the United States.  If an
+3729 individual work is in the public domain in the United States and you are
+3730 located in the United States, we do not claim a right to prevent you from
+3731 copying, distributing, performing, displaying or creating derivative
+3732 works based on the work as long as all references to Project Gutenberg
+3733 are removed.  Of course, we hope that you will support the Project
+3734 Gutenberg-tm mission of promoting free access to electronic works by
+3735 freely sharing Project Gutenberg-tm works in compliance with the terms of
+3736 this agreement for keeping the Project Gutenberg-tm name associated with
+3737 the work.  You can easily comply with the terms of this agreement by
+3738 keeping this work in the same format with its attached full Project
+3739 Gutenberg-tm License when you share it without charge with others.
+3740 
+3741 1.D.  The copyright laws of the place where you are located also govern
+3742 what you can do with this work.  Copyright laws in most countries are in
+3743 a constant state of change.  If you are outside the United States, check
+3744 the laws of your country in addition to the terms of this agreement
+3745 before downloading, copying, displaying, performing, distributing or
+3746 creating derivative works based on this work or any other Project
+3747 Gutenberg-tm work.  The Foundation makes no representations concerning
+3748 the copyright status of any work in any country outside the United
+3749 States.
+3750 
+3751 1.E.  Unless you have removed all references to Project Gutenberg:
+3752 
+3753 1.E.1.  The following sentence, with active links to, or other immediate
+3754 access to, the full Project Gutenberg-tm License must appear prominently
+3755 whenever any copy of a Project Gutenberg-tm work (any work on which the
+3756 phrase "Project Gutenberg" appears, or with which the phrase "Project
+3757 Gutenberg" is associated) is accessed, displayed, performed, viewed,
+3758 copied or distributed:
+3759 
+3760 This eBook is for the use of anyone anywhere at no cost and with
+3761 almost no restrictions whatsoever.  You may copy it, give it away or
+3762 re-use it under the terms of the Project Gutenberg License included
+3763 with this eBook or online at www.gutenberg.net
+3764 
+3765 1.E.2.  If an individual Project Gutenberg-tm electronic work is derived
+3766 from the public domain (does not contain a notice indicating that it is
+3767 posted with permission of the copyright holder), the work can be copied
+3768 and distributed to anyone in the United States without paying any fees
+3769 or charges.  If you are redistributing or providing access to a work
+3770 with the phrase "Project Gutenberg" associated with or appearing on the
+3771 work, you must comply either with the requirements of paragraphs 1.E.1
+3772 through 1.E.7 or obtain permission for the use of the work and the
+3773 Project Gutenberg-tm trademark as set forth in paragraphs 1.E.8 or
+3774 1.E.9.
+3775 
+3776 1.E.3.  If an individual Project Gutenberg-tm electronic work is posted
+3777 with the permission of the copyright holder, your use and distribution
+3778 must comply with both paragraphs 1.E.1 through 1.E.7 and any additional
+3779 terms imposed by the copyright holder.  Additional terms will be linked
+3780 to the Project Gutenberg-tm License for all works posted with the
+3781 permission of the copyright holder found at the beginning of this work.
+3782 
+3783 1.E.4.  Do not unlink or detach or remove the full Project Gutenberg-tm
+3784 License terms from this work, or any files containing a part of this
+3785 work or any other work associated with Project Gutenberg-tm.
+3786 
+3787 1.E.5.  Do not copy, display, perform, distribute or redistribute this
+3788 electronic work, or any part of this electronic work, without
+3789 prominently displaying the sentence set forth in paragraph 1.E.1 with
+3790 active links or immediate access to the full terms of the Project
+3791 Gutenberg-tm License.
+3792 
+3793 1.E.6.  You may convert to and distribute this work in any binary,
+3794 compressed, marked up, nonproprietary or proprietary form, including any
+3795 word processing or hypertext form.  However, if you provide access to or
+3796 distribute copies of a Project Gutenberg-tm work in a format other than
+3797 "Plain Vanilla ASCII" or other format used in the official version
+3798 posted on the official Project Gutenberg-tm web site (www.gutenberg.net),
+3799 you must, at no additional cost, fee or expense to the user, provide a
+3800 copy, a means of exporting a copy, or a means of obtaining a copy upon
+3801 request, of the work in its original "Plain Vanilla ASCII" or other
+3802 form.  Any alternate format must include the full Project Gutenberg-tm
+3803 License as specified in paragraph 1.E.1.
+3804 
+3805 1.E.7.  Do not charge a fee for access to, viewing, displaying,
+3806 performing, copying or distributing any Project Gutenberg-tm works
+3807 unless you comply with paragraph 1.E.8 or 1.E.9.
+3808 
+3809 1.E.8.  You may charge a reasonable fee for copies of or providing
+3810 access to or distributing Project Gutenberg-tm electronic works provided
+3811 that
+3812 
+3813 - You pay a royalty fee of 20% of the gross profits you derive from
+3814      the use of Project Gutenberg-tm works calculated using the method
+3815      you already use to calculate your applicable taxes.  The fee is
+3816      owed to the owner of the Project Gutenberg-tm trademark, but he
+3817      has agreed to donate royalties under this paragraph to the
+3818      Project Gutenberg Literary Archive Foundation.  Royalty payments
+3819      must be paid within 60 days following each date on which you
+3820      prepare (or are legally required to prepare) your periodic tax
+3821      returns.  Royalty payments should be clearly marked as such and
+3822      sent to the Project Gutenberg Literary Archive Foundation at the
+3823      address specified in Section 4, "Information about donations to
+3824      the Project Gutenberg Literary Archive Foundation."
+3825 
+3826 - You provide a full refund of any money paid by a user who notifies
+3827      you in writing (or by e-mail) within 30 days of receipt that s/he
+3828      does not agree to the terms of the full Project Gutenberg-tm
+3829      License.  You must require such a user to return or
+3830      destroy all copies of the works possessed in a physical medium
+3831      and discontinue all use of and all access to other copies of
+3832      Project Gutenberg-tm works.
+3833 
+3834 - You provide, in accordance with paragraph 1.F.3, a full refund of any
+3835      money paid for a work or a replacement copy, if a defect in the
+3836      electronic work is discovered and reported to you within 90 days
+3837      of receipt of the work.
+3838 
+3839 - You comply with all other terms of this agreement for free
+3840      distribution of Project Gutenberg-tm works.
+3841 
+3842 1.E.9.  If you wish to charge a fee or distribute a Project Gutenberg-tm
+3843 electronic work or group of works on different terms than are set
+3844 forth in this agreement, you must obtain permission in writing from
+3845 both the Project Gutenberg Literary Archive Foundation and Michael
+3846 Hart, the owner of the Project Gutenberg-tm trademark.  Contact the
+3847 Foundation as set forth in Section 3 below.
+3848 
+3849 1.F.
+3850 
+3851 1.F.1.  Project Gutenberg volunteers and employees expend considerable
+3852 effort to identify, do copyright research on, transcribe and proofread
+3853 public domain works in creating the Project Gutenberg-tm
+3854 collection.  Despite these efforts, Project Gutenberg-tm electronic
+3855 works, and the medium on which they may be stored, may contain
+3856 "Defects," such as, but not limited to, incomplete, inaccurate or
+3857 corrupt data, transcription errors, a copyright or other intellectual
+3858 property infringement, a defective or damaged disk or other medium, a
+3859 computer virus, or computer codes that damage or cannot be read by
+3860 your equipment.
+3861 
+3862 1.F.2.  LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+3863 of Replacement or Refund" described in paragraph 1.F.3, the Project
+3864 Gutenberg Literary Archive Foundation, the owner of the Project
+3865 Gutenberg-tm trademark, and any other party distributing a Project
+3866 Gutenberg-tm electronic work under this agreement, disclaim all
+3867 liability to you for damages, costs and expenses, including legal
+3868 fees.  YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+3869 LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+3870 PROVIDED IN PARAGRAPH F3.  YOU AGREE THAT THE FOUNDATION, THE
+3871 TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+3872 LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+3873 INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+3874 DAMAGE.
+3875 
+3876 1.F.3.  LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+3877 defect in this electronic work within 90 days of receiving it, you can
+3878 receive a refund of the money (if any) you paid for it by sending a
+3879 written explanation to the person you received the work from.  If you
+3880 received the work on a physical medium, you must return the medium with
+3881 your written explanation.  The person or entity that provided you with
+3882 the defective work may elect to provide a replacement copy in lieu of a
+3883 refund.  If you received the work electronically, the person or entity
+3884 providing it to you may choose to give you a second opportunity to
+3885 receive the work electronically in lieu of a refund.  If the second copy
+3886 is also defective, you may demand a refund in writing without further
+3887 opportunities to fix the problem.
+3888 
+3889 1.F.4.  Except for the limited right of replacement or refund set forth
+3890 in paragraph 1.F.3, this work is provided to you 'AS-IS' WITH NO OTHER
+3891 WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+3892 WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+3893 
+3894 1.F.5.  Some states do not allow disclaimers of certain implied
+3895 warranties or the exclusion or limitation of certain types of damages.
+3896 If any disclaimer or limitation set forth in this agreement violates the
+3897 law of the state applicable to this agreement, the agreement shall be
+3898 interpreted to make the maximum disclaimer or limitation permitted by
+3899 the applicable state law.  The invalidity or unenforceability of any
+3900 provision of this agreement shall not void the remaining provisions.
+3901 
+3902 1.F.6.  INDEMNITY - You agree to indemnify and hold the Foundation, the
+3903 trademark owner, any agent or employee of the Foundation, anyone
+3904 providing copies of Project Gutenberg-tm electronic works in accordance
+3905 with this agreement, and any volunteers associated with the production,
+3906 promotion and distribution of Project Gutenberg-tm electronic works,
+3907 harmless from all liability, costs and expenses, including legal fees,
+3908 that arise directly or indirectly from any of the following which you do
+3909 or cause to occur: (a) distribution of this or any Project Gutenberg-tm
+3910 work, (b) alteration, modification, or additions or deletions to any
+3911 Project Gutenberg-tm work, and (c) any Defect you cause.
+3912 
+3913 
+3914 Section  2.  Information about the Mission of Project Gutenberg-tm
+3915 
+3916 Project Gutenberg-tm is synonymous with the free distribution of
+3917 electronic works in formats readable by the widest variety of computers
+3918 including obsolete, old, middle-aged and new computers.  It exists
+3919 because of the efforts of hundreds of volunteers and donations from
+3920 people in all walks of life.
+3921 
+3922 Volunteers and financial support to provide volunteers with the
+3923 assistance they need are critical to reaching Project Gutenberg-tm's
+3924 goals and ensuring that the Project Gutenberg-tm collection will
+3925 remain freely available for generations to come.  In 2001, the Project
+3926 Gutenberg Literary Archive Foundation was created to provide a secure
+3927 and permanent future for Project Gutenberg-tm and future generations.
+3928 To learn more about the Project Gutenberg Literary Archive Foundation
+3929 and how your efforts and donations can help, see Sections 3 and 4
+3930 and the Foundation web page at http://www.pglaf.org.
+3931 
+3932 
+3933 Section 3.  Information about the Project Gutenberg Literary Archive
+3934 Foundation
+3935 
+3936 The Project Gutenberg Literary Archive Foundation is a non profit
+3937 501(c)(3) educational corporation organized under the laws of the
+3938 state of Mississippi and granted tax exempt status by the Internal
+3939 Revenue Service.  The Foundation's EIN or federal tax identification
+3940 number is 64-6221541.  Its 501(c)(3) letter is posted at
+3941 http://pglaf.org/fundraising.  Contributions to the Project Gutenberg
+3942 Literary Archive Foundation are tax deductible to the full extent
+3943 permitted by U.S. federal laws and your state's laws.
+3944 
+3945 The Foundation's principal office is located at 4557 Melan Dr. S.
+3946 Fairbanks, AK, 99712., but its volunteers and employees are scattered
+3947 throughout numerous locations.  Its business office is located at
+3948 809 North 1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+3949 business@pglaf.org.  Email contact links and up to date contact
+3950 information can be found at the Foundation's web site and official
+3951 page at http://pglaf.org
+3952 
+3953 For additional contact information:
+3954      Dr. Gregory B. Newby
+3955      Chief Executive and Director
+3956      gbnewby@pglaf.org
+3957 
+3958 
+3959 Section 4.  Information about Donations to the Project Gutenberg
+3960 Literary Archive Foundation
+3961 
+3962 Project Gutenberg-tm depends upon and cannot survive without wide
+3963 spread public support and donations to carry out its mission of
+3964 increasing the number of public domain and licensed works that can be
+3965 freely distributed in machine readable form accessible by the widest
+3966 array of equipment including outdated equipment.  Many small donations
+3967 ($1 to $5,000) are particularly important to maintaining tax exempt
+3968 status with the IRS.
+3969 
+3970 The Foundation is committed to complying with the laws regulating
+3971 charities and charitable donations in all 50 states of the United
+3972 States.  Compliance requirements are not uniform and it takes a
+3973 considerable effort, much paperwork and many fees to meet and keep up
+3974 with these requirements.  We do not solicit donations in locations
+3975 where we have not received written confirmation of compliance.  To
+3976 SEND DONATIONS or determine the status of compliance for any
+3977 particular state visit http://pglaf.org
+3978 
+3979 While we cannot and do not solicit contributions from states where we
+3980 have not met the solicitation requirements, we know of no prohibition
+3981 against accepting unsolicited donations from donors in such states who
+3982 approach us with offers to donate.
+3983 
+3984 International donations are gratefully accepted, but we cannot make
+3985 any statements concerning tax treatment of donations received from
+3986 outside the United States.  U.S. laws alone swamp our small staff.
+3987 
+3988 Please check the Project Gutenberg Web pages for current donation
+3989 methods and addresses.  Donations are accepted in a number of other
+3990 ways including including checks, online payments and credit card
+3991 donations.  To donate, please visit: http://pglaf.org/donate
+3992 
+3993 
+3994 Section 5.  General Information About Project Gutenberg-tm electronic
+3995 works.
+3996 
+3997 Professor Michael S. Hart is the originator of the Project Gutenberg-tm
+3998 concept of a library of electronic works that could be freely shared
+3999 with anyone.  For thirty years, he produced and distributed Project
+4000 Gutenberg-tm eBooks with only a loose network of volunteer support.
+4001 
+4002 
+4003 Project Gutenberg-tm eBooks are often created from several printed
+4004 editions, all of which are confirmed as Public Domain in the U.S.
+4005 unless a copyright notice is included.  Thus, we do not necessarily
+4006 keep eBooks in compliance with any particular paper edition.
+4007 
+4008 
+4009 Most people start at our Web site which has the main PG search facility:
+4010 
+4011      http://www.gutenberg.net
+4012 
+4013 This Web site includes information about Project Gutenberg-tm,
+4014 including how to make donations to the Project Gutenberg Literary
+4015 Archive Foundation, how to help produce our new eBooks, and how to
+4016 subscribe to our email newsletter to hear about new eBooks.
